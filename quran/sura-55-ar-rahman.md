@@ -1,7 +1,1 @@
-const Tooltip = require('gitbook-styleguide/lib/Tooltip');
-
-<Tooltip title="Hello World">
-There is a tooltip
-</Tooltip>
-
-test
+Sura 67, known as al-Mulk, translated variously as Sovereignty, Dominion, and Kingship,  takes its name from the first ayah.
