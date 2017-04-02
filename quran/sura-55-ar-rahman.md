@@ -8,8 +8,6 @@ Sura 55, known as _ar-Rahman_, translated variously as the Most Gracious, the Be
 
 This sura consists of a tripartite structure \(not counting 31 repetitions of the refrain\): 12, 14, 21 + 1[^3]. The first two parts are hymns and the third is an eschatology.[^4]
 
-
-
 GHAZZALI VARIANCE IN QURANIC VERSES
 
 \]58-74\[ ;\]1-27\[ ;71-74 ;63-70 ;58-62 ;14-27 ;1-13
@@ -20,7 +18,9 @@ Notes: 55: 8– 9, 55: 33, possible later insertions \(Nöldeke\) Structure \(no
 
 Ernst, Carl W. \(2011-12-05\). How to Read the Qur'an: A New Guide, with Select Translations \(p. 215\). The University of North Carolina Press. Kindle Edition.
 
-## I Hymn \(12+1\)
+## I Hymn 
+
+Al-Ghazali considers this entire hymn \(verses 1-13 including the refrain\) among the jewels of divine knowledge
 
 ### 12: 1-12
 
