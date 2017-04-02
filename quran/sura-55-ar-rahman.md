@@ -26,10 +26,10 @@ Al-Ghazali considers this entire hymn \(verses 1-13 including the refrain\) amon
 
 The first four verses form a hymnic prelude, concerning revelation and creation. Dr. Nazeer Ahmed translates them thus:[^6]
 
-> 1. The Most Compassionate,
-> 2. Taught the Qur’an;
-> 3. Created the human,
-> 4. Taught him speech \(discourse, thought, logic, reason, comprehension, integration\).
+> 1: The Most Compassionate,
+> 2: Taught the Qur’an;
+> 3: Created the human,
+> 4: Taught him speech \(discourse, thought, logic, reason, comprehension, integration\).
 
 In her lecture on “Late Antique Qur'an”, Angelika Neuwirth observed that this passage places the teaching of the Qur'an _before_ the creation of humanity.[^5] This recalls the opening of the Gospel of John:
 
@@ -45,10 +45,10 @@ In other words, the Qur'an is to be understood, in this context, as a celestial 
 
 Dr. Nazeer Ahmed translates the next two verses thus:
 
-> 5. The sun and the moon  
+> 5: The sun and the moon  
 > \(Orbit\) with mathematical precision,
 >
-> 6. And the stars,  
+> 6: And the stars,  
 > And the trees,  
 > Bow down in prostration.
 
@@ -56,26 +56,26 @@ Dr. Nazeer Ahmed translates the next two verses thus:
 
 The later half of this hymn consists of a pair of three verses each describing heaven and earth respectively:
 
-> 7. And the heavens has He raised high  
+> 7: And the heavens has He raised high  
 > And established \(dynamic\) equilibrium \(therein\),
 >
-> 8. So that you do not violate justice \(in your own lives\).
+> 8: So that you do not violate justice \(in your own lives\).
 >
-> 9. And establish weight with equity,  
+> 9:. And establish weight with equity,  
 > And do not compromise the balance.
 
-> 10. And the earth has He shaped for the living creatures,
+> 10: And the earth has He shaped for the living creatures,
 >
-> 11. In it there are fruit,  
+> 11: In it there are fruit,  
 > And date palms, of \(many\) varieties with sheathed clusters;
 >
-> 12. And grains with husks and herbs with scent,
+> 12: And grains with husks and herbs with scent,
 
 ### Refrain
 
 Finally, the refrain:
 
-> 13. Then, which of the bounties of your Rabb do you deny \(O humans and Jinns\)?
+> 13: Then, which of the bounties of your Rabb do you deny \(O humans and Jinns\)?
 
 This refrain will repeat continuously throughout the rest of this sura. Nöldeke _et al_. find it "tiresome",[^7] and to be fair, it is rather repetitive. However, two things must be kept in mind:
 
@@ -90,27 +90,27 @@ The second hymn consists of two parts containing 10 and 4 verses respectively. T
 
 The following ver
 
-> 14. He has created the human from animated clay, \(malleable\) like that of pottery,  
-> 15. And created the Jinn from turbulent fire,  
-> 16.         Then, which of the bounties of your Rabb do you deny \(O humans and Jinns\)?
+> 14: He has created the human from animated clay, \(malleable\) like that of pottery,  
+> 15: And created the Jinn from turbulent fire,  
+> 16:         Then, which of the bounties of your Rabb do you deny \(O humans and Jinns\)?
 >
-> 17. The Rabb of the two Easts \(inner in your souls and outer in nature\)  
+> 17: The Rabb of the two Easts \(inner in your souls and outer in nature\)  
 > And of the two Wests \(inner and outer\).  
-> 18.        Then, which of the bounties of your Rabb do you deny \(O humans and Jinns\)?
+> 18:        Then, which of the bounties of your Rabb do you deny \(O humans and Jinns\)?
 >
-> 19. He has floated the two oceans that meet,  
-> 20. Between them is a partition that they do not cross,  
-> 21.        Then, which of the bounties of your Rabb do you deny \(O humans and Jinns\)?
+> 19: He has floated the two oceans that meet,  
+> 20: Between them is a partition that they do not cross,  
+> 21:        Then, which of the bounties of your Rabb do you deny \(O humans and Jinns\)?
 >
-> 22. From them are brought forth pearls and corals,  
-> 23.        Then, which of the bounties of your Rabb do you deny \(O humans and Jinns\)?
+> 22: From them are brought forth pearls and corals,  
+> 23:        Then, which of the bounties of your Rabb do you deny \(O humans and Jinns\)?
 >
-> 24. And His are the ships that move on the oceans, \(rising high\) like mountains,  
-> 25.        Then, which of the bounties of your Rabb do you deny \(O humans and Jinns\)?
+> 24: And His are the ships that move on the oceans, \(rising high\) like mountains,  
+> 25:        Then, which of the bounties of your Rabb do you deny \(O humans and Jinns\)?
 >
-> 26. Upon all that exists, there shall be annihilation,  
-> 27. The Being of your Rabb, the Lord of Majesty and Bounty, shall endure,  
-> 28.        Then, which of the bounties of your Rabb do you deny \(O humans and Jinns\)?
+> 26: Upon all that exists, there shall be annihilation,  
+> 27: The Being of your Rabb, the Lord of Majesty and Bounty, shall endure,  
+> 28:        Then, which of the bounties of your Rabb do you deny \(O humans and Jinns\)?
 
 
 
