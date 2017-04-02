@@ -4,7 +4,7 @@
 * [Prophets - נְבִיאִים‎](chapter1.md)
   * [Elijah](chapter1/elijah.md)
   * [Amos](chapter1/amos.md)
-* [Qur'an - القرآن‎‎](quran.md)
+* [Qur'an - القرآن‎‎](quran/README.md)
   * [Sura 55 ar-Rahman](quran/sura-55-ar-rahman.md)
   * [Sura 24 \(WIP\)](.md/sura-24.md)
 * Daodejing - 道德經
