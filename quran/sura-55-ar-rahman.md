@@ -1,1 +1,2 @@
-Sura 67, known as al-Mulk, translated variously as Sovereignty, Dominion, and Kingship,  takes its name from the first ayah.
+Sura 55, known as _ar-Rahman_, translated variously as the Most Gracious, the Benficent, and the Most Merciful,  takes its name from the first ayah.
+
