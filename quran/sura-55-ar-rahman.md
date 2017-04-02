@@ -6,6 +6,10 @@
 
 Sura 55, known as _ar-Rahman_, translated variously as the Most Gracious, the Benficent, and the Most Merciful,  takes its name from the first ayah. It is regarded by many as the crown of the Qur'an. It is unclear as to whether it is an earlier Meccan sura or a later Medinan one.[^1] Muhammad Asad remarks on "the opinion that it followed immediately upon _surah_ 13 \("Thunder"\) . . . which is not very helpful since that _surah_, too, cannot be assigned to either of the two periods with any degree of certainty."[^2]
 
+This sura consists of a tripartite structure \(not counting 31 repetitions of the refrain\): 12, 14, 21 + 1[^3]. The first two parts are hymns and the third is an eschatology.[^4]
+
+
+
 GHAZZALI VARIANCE IN QURANIC VERSES
 
 \]58-74\[ ;\]1-27\[ ;71-74 ;63-70 ;58-62 ;14-27 ;1-13
@@ -101,4 +105,8 @@ the good ones; Additional garden \(many responses to the first garden descriptio
 [^1]: Ernst, Carl W. \(2011-12-05\). _How to Read the Qur'an: A New Guide, with Select Translations_ \(p. 40\). The University of North Carolina Press. Kindle Edition. 
 
 [^2]: Asad, Muhammad. \(2003\). _The Message of the Qur'an_ \(p. 937\). Oriental Press. Dubai.
+
+[^3]: Ernst, Carl W. \(2011-12-05\). _How to Read the Qur'an: A New Guide, with Select Translations_ \(p. 215\). The University of North Carolina Press. Kindle Edition.
+
+[^4]: Neuwirth, Angelika. \(2007\) “Die Komposition der Suren und ihre Bauelemente” in _Studien zur Komposition der mekkanischen Suren_. Berlin.
 
