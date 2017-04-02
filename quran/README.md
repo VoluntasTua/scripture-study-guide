@@ -10,5 +10,5 @@ This is emphatically not the case when reading the Qur'an. Rather, Qur'anic sura
 
 Another guide comes to us from the Sufi Al-Ghazzali who identified various "jewels" and "pearls" in the Qur'an. The pearls and jewels are verses \(_ayat_\) that contain wisdom and divine knowledge \(respectively\). ... says "The jewels are those verses which especially concern the essence of God, His attributes and His works. This is the cognitive part. The pearls are the verses which describe the straight path and the verses which urge man \[sic\] to follow it. This is the practical part."[^1]
 
-[^1]: Quasem, Muhammad Abul. \(1977\). _The Jewels of the Qur'an: Al-Ghazali's Theory_ \(pg. 88.\) University of Malaysia Press. Lembah Pantai, Kuala Lumpur.
+[^1]: Quasem, Muhammad Abul. \(1977\). _The Jewels of the Qur'an: Al-Ghazali's Theory_ \(p. 88\). University of Malaysia Press. Lembah Pantai, Kuala Lumpur.
 
