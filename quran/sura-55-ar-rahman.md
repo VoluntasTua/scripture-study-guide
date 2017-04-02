@@ -100,5 +100,5 @@ the good ones; Additional garden \(many responses to the first garden descriptio
 
 [^1]: Ernst, Carl W. \(2011-12-05\). _How to Read the Qur'an: A New Guide, with Select Translations_ \(p. 40\). The University of North Carolina Press. Kindle Edition. 
 
-[^2]: Asad, Muhammad. \(2003\). The Message of the Qur'an \(p. 937\). Oriental Press. Dubai.
+[^2]: Asad, Muhammad. \(2003\). _The Message of the Qur'an_ \(p. 937\). Oriental Press. Dubai.
 
