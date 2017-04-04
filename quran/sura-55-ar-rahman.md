@@ -154,8 +154,10 @@ Verses 46-60 describe the paradise that awaits the good on the Day. The imagery 
 
 Verses 62-76 goes into detail about "two Gardens." It's unclear exactly why there are two Gardens but the fact that this surah is explicitly addressed to both Jinn and Human, it seems plausible that the two Gardens exist for these two species of sen
 
-#### Conclusion: Doxology
+#### Last Refrain and Conclusion: Doxology
 
+> 77: Then, which of the bounties of your Rabb do you deny \(O humans and Jinns\)?
+>
 > 78: Sanctified is the Name of your Rabb,  
 > The Lord of Majesty and Bounties.
 
