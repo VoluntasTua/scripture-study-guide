@@ -23,10 +23,10 @@ The first four verses form a hymnic prelude, concerning revelation and creation.
 
 In her lecture on “Late Antique Qur'an”, Angelika Neuwirth observed that this passage places the teaching of the Qur'an _before_ the creation of humanity.[^5] This recalls the opening of the Gospel of John:
 
-> 1. In the beginning was the Word, and the Word was with God, and the Word was God. 
-> 2. He was in the beginning with God. 
-> 3. All things came into being through him, and without him not one thing came into being. What has come into being 
-> 4. in him was life,\[a\] and the life was the light of all people. 
+> 1. In the beginning was the Word, and the Word was with God, and the Word was God.
+> 2. He was in the beginning with God.
+> 3. All things came into being through him, and without him not one thing came into being. What has come into being
+> 4. in him was life,\[a\] and the life was the light of all people.
 > 5. The light shines in the darkness, and the darkness did not overcome it.
 
 In other words, the Qur'an is to be understood, in this context, as a celestial text, not to be confused with the physical manifestation of it in the voice of the prophet, much less the transcription of that voice into a physical book. This ambiguity around the word Qur'an can also be found in the Jewish and Hindu traditions regarding the words _Torah_ and _Veda_ respectively. That is, in all of these cases, there is a celestial text which exists more as an idea or even a template of creation, and then there is the physical book that refers to that text. While it is no accident that both the transcendent and the physical are referred to by the same name, they one should not be confused with the other. It might be akin to pointing to Asia on a map. The "Asia" on the map is not the real Asia, but a signifier. I can point to the signifier of Asia on a map and say, "that's Asia" without you thinking the actual continent is on that map. Similarly, the volume of the Qur'an that you hold in your hand can be considered a signifier of the true Qur'an that pre-exists creation.
@@ -163,7 +163,9 @@ Verses 62-76 goes into detail about "two Gardens." It's unclear exactly why ther
 
 This conclusion is also the answer to the question in the refrain.
 
-[^1]: Ernst, Carl W. \(2011-12-05\). _How to Read the Qur'an: A New Guide, with Select Translations_ \(p. 40\). The University of North Carolina Press. Kindle Edition. 
+****
+
+[^1]: Ernst, Carl W. \(2011-12-05\). _How to Read the Qur'an: A New Guide, with Select Translations_ \(p. 40\). The University of North Carolina Press. Kindle Edition.
 
 [^2]: Asad, Muhammad. \(2003\). _The Message of the Qur'an_ \(p. 937\). Oriental Press. Dubai.
 
@@ -171,11 +173,10 @@ This conclusion is also the answer to the question in the refrain.
 
 [^4]: Neuwirth, Angelika. \(2007\) “Die Komposition der Suren und ihre Bauelemente” in _Studien zur Komposition der mekkanischen Suren_. Berlin.
 
-[^5]: Neuwirth, Angelika. “Late Antique Qur'an.” Public Lecture, Event from Institute for Advanced Study, June 3, 2009. [https://www.youtube.com/watch?v=qHCeYSvazY4](https://www.youtube.com/watch?v=qHCeYSvazY4) 
+[^5]: Neuwirth, Angelika. “Late Antique Qur'an.” Public Lecture, Event from Institute for Advanced Study, June 3, 2009. [https://www.youtube.com/watch?v=qHCeYSvazY4](https://www.youtube.com/watch?v=qHCeYSvazY4)
 
 [^6]: Ahmed, Nazeer. "Surah 55. Surat ur Rahman \(The Most Compassionate\)" in History of Islam, [https://historyofislam.com/the-quran/surah-55-surat-ur-rahman/](https://historyofislam.com/the-quran/surah-55-surat-ur-rahman/)
 
 [^7]: Nöldeke, Theodor, Friedrich Schwally, Gotthelf Bergsträsser, O Pretzl, and Wolfgang Behn. 2013. _The History Of The Qur'an_. Leiden: Brill.
 
 [^8]: Neuwirth, Angelika. “Scripture, Poetry, and the Making of a Community.” Public Lecture, Anis Makdisi Memorial Lecture from the American University of Beirut, May 20, 2015.
-
