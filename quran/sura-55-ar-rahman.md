@@ -78,7 +78,7 @@ The second hymn consists of two parts containing 10 and 4 verses respectively. T
 
 ### The Magnificence of God
 
-Verses 14-29 describe the magnificence of God. 
+Verses 14-29 describe the magnificence of God.
 
 > 14: He has created the human from animated clay, \(malleable\) like that of pottery,  
 > 15: And created the Jinn from turbulent fire,  
@@ -159,7 +159,7 @@ Verses 62-76 goes into detail about "two Gardens." It's unclear exactly why ther
 > 78: Sanctified is the Name of your Rabb,  
 > The Lord of Majesty and Bounties.
 
-**يَوْمَ**
+This conclusion is also the answer to the question in the refrain.
 
 [^1]: Ernst, Carl W. \(2011-12-05\). _How to Read the Qur'an: A New Guide, with Select Translations_ \(p. 40\). The University of North Carolina Press. Kindle Edition. 
 
