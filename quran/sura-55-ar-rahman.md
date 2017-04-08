@@ -1,10 +1,10 @@
 # Sura 55 - _ar-Raḥmān_
-# الرحمن
 
+# الرحمن
 
 ## Introduction
 
-Sura 55, known as _ar-Rahman_, translated variously as the Most Gracious, the Benficent, and the Most Merciful,  takes its name from the first ayah. It is regarded by many as the crown of the Qur'an. It is unclear as to whether it is an earlier Meccan sura or a later Medinan one.[^1] Muhammad Asad remarks on "the opinion that it followed immediately upon _surah_ 13 \("Thunder"\) . . . which is not very helpful since that _surah_, too, cannot be assigned to either of the two periods with any degree of certainty."[^2]
+Sura 55, known as _ar-Rahman_, translated variously as the Most Gracious, the Benficent, and the Most Merciful,  takes its name from the first verse. It is regarded by many as the crown of the Qur'an. It is unclear as to whether it is an earlier Meccan sura or a later Medinan one.[^1] Muhammad Asad remarks on "the opinion that it followed immediately upon _surah_ 13 \("Thunder"\) . . . which is not very helpful since that _surah_, too, cannot be assigned to either of the two periods with any degree of certainty."[^2]
 
 This sura consists of a tripartite structure \(not counting 31 repetitions of the refrain\): 12, 14, 21 + 1[^3]. The first two parts make up the first half and are hymns to God. The final part is an eschatology.[^4]
 
@@ -163,7 +163,7 @@ Verses 62-76 goes into detail about "two Gardens." It's unclear exactly why ther
 
 This conclusion is also the answer to the question in the refrain.
 
-****
+---
 
 [^1]: Ernst, Carl W. \(2011-12-05\). _How to Read the Qur'an: A New Guide, with Select Translations_ \(p. 40\). The University of North Carolina Press. Kindle Edition.
 
@@ -180,3 +180,4 @@ This conclusion is also the answer to the question in the refrain.
 [^7]: Nöldeke, Theodor, Friedrich Schwally, Gotthelf Bergsträsser, O Pretzl, and Wolfgang Behn. 2013. _The History Of The Qur'an_. Leiden: Brill.
 
 [^8]: Neuwirth, Angelika. “Scripture, Poetry, and the Making of a Community.” Public Lecture, Anis Makdisi Memorial Lecture from the American University of Beirut, May 20, 2015.
+
