@@ -6,5 +6,5 @@ In these suras, we more of a dialogue with the Jews and Christians in Yathrib/Me
 
 In choosing which verses to focus on for suras 2, 4, and 5, I followed two criteria: First, I made sure to include all of the passages references in Barbara Hampton's [_Reading Scripture Together: A Comparative Qur'an and Bible Study Guide_](https://muslimandchristiandialogue.files.wordpress.com/2015/02/reading_scripture_together_preview.pdf). \(The other half of that dialogue will be covered in the [Torah](/torah.md) and [Gospel](/gospels-.md) modules of this course.\) While Hampton is coming from a distinctly Evangelical Christian point of view, her choices of passages for comparison between the Meccan Suras and the Christian Bible are helpful when coming from a dominantly Christian cultural paradigm. Thus, we will see references to familiar Biblical figures such as Abraham, Moses, and Jesus but from a distinctly Muslim point of view.
 
-Second, I drew upon Al-Ghazali's [_Jewels of the Qur'an_](http://www.muslimsupport.net/download/books/Jewels%20of%20the%20Quran.pdf).
+Second, I drew upon Al-Ghazali's [_Jewels of the Qur'an_](http://www.muslimsupport.net/download/books/Jewels of the Quran.pdf) \(translated by Muhammad Abul Quasem, 1977\).  Al-Ghazali
 
