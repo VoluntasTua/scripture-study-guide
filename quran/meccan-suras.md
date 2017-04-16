@@ -6,7 +6,7 @@ In the first two weeks we will cover many of the early Meccan suras. In the latt
 
 ### [Week 1: Suras 1, 81-114](/quran/sura-1.md)
 
-We begin with the first sura, the Opening. We then jump toward the end of the book. Though this covers 35 of the 114 suras by count, it is less than 3% of the overall text.
+We begin with the first sura, the Opening. We then jump toward the end of the book. Though this covers 35 of the 114 suras by count, it is less than 3% of the overall text. These suras were chosen for Michael Sells' _Approaching the Qur'an: The Early Revelations_ along with a portion of sura 53 which we will be reading in week 2.
 
 ### [Week 2: Suras 53, 55, 56, 68](/quran/week-2-suras-53-55-56-68.md)
 
