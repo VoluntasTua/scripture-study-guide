@@ -18,7 +18,15 @@ This sura is easily the longest sura in the Qur'an. It contains 286 verses, seve
 
 For this sura we will focus on one largish section followed by many smaller passages. We will begin with the first verse, and then skip to verses 13-40 which Hampton compares to Luke 15:11-31. We will then consider verses 48, 49, 58, 59, 64-70, 79-87, 94-96, 103-116, 125-129, 146-149, 153-162, and finally 171-176.
 
-## Week 3: Sura 5
+## [Week 3: Sura 5](/quran/week-3-sura-5.md)
+
+For this sura, we will begin with the opening, verses 1-3, followed by an isolated verse: 17, followed by two larger sections: 35-50 and 72-120. Verses 72-120 contain a dialogue between Allah and Jesus which illuminates how Muslims perceive trinitarian Christianity. 
+
+In addition to Suras 2, 4, and 5, Hampton also cites 7:157-158 and 16:102 as being particularly relevant to Christian-Muslim dialogue.
+
+## Week 4: Sura 24
+
+We conclude with Sura 24, _an-Nūr_, or "the Light". It is one of the shorter Medinan suras and thus can be read in a single sitting. 
 
 
 
