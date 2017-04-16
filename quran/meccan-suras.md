@@ -14,11 +14,9 @@ We proceed then to some of the longer \(relatively speaking\) of the early Mecca
 
 ### [Week 3: Suras 19, 38](/quran/week-3-suras-19-38.md)
 
-We now get to the so-called middle Meccan suras which are longer and therefore tend to have a more complex tripartite structure. 
+We now get to the so-called middle Meccan suras which are longer and therefore tend to have a more complex tripartite structure.
 
-### Week 4: Suras 32, 36, 67
+### [Week 4: Suras 32, 36, 67](/quran/week-4-suras-36-67-32.md)
 
 Suras 32, 36, and 67 come from the mid-to-late Meccan period.
-
-
 
