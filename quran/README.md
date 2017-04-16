@@ -12,7 +12,9 @@ This is emphatically not the case when reading the Qur'an. Rather, Qur'anic sura
 
 Another guide comes to us from the Sufi Al-Ghazali who identified various "jewels" and "pearls" in the Qur'an. The pearls and jewels are verses \(_ayat_\) that contain wisdom and divine knowledge \(respectively\). In the words of Muhammad Abul Quasem: "The jewels are those verses which especially concern the essence of God, His attributes and His works. This is the cognitive part. The pearls are the verses which describe the straight path and the verses which urge man \[sic\] to follow it. This is the practical part."[^1]
 
+## On Translation
 
+For these two modules, we will primarily use Dr. Nazeer Ahmed's translation of the Qur'an which he has graciously published on his blog at https://historyofislam.com/the-quran/. Another notable translation is by Abdullah Yusuf Ali which is considered to be "King James-like" in it's diction. \(Whether you consider that a good thing or a bad thing is a matter of opinion.\) Yusuf Ali's is one of several translations you can access at http://www.quranbrowser.org/. Finally, a translation I will refer to less often, because it is not free, is that of Muhammad Asad which can be accessed at http://www.islamicbulletin.org/free\_downloads/quran/quran\_asad.htm
 
 [^1]: Quasem, Muhammad Abul. \(1977\). _The Jewels of the Qur'an: Al-Ghazali's Theory_ \(p. 88\). University of Malaysia Press. Lembah Pantai, Kuala Lumpur.
 
