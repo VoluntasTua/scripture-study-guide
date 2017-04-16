@@ -13,7 +13,7 @@
       * [Sura 56 الواقعة](quran/sura-56.md)
     * Week 3: Suras 19, 38
     * Week 4: Suras 36, 67, 32
-  * Medinan Suras
+  * [Medinan Suras](quran/medinan-suras.md)
     * Week 1: Sura 2
     * Week 2: Sura 4
     * Week 3: Sura 5
