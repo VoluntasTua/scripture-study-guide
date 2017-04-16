@@ -10,7 +10,15 @@ Second, I drew upon al-Ghazali's [_Jewels of the Qur'an_](http://www.muslimsuppo
 
 Beyond those two criteria, I simply included verses to fill in the smaller gaps for the sake of continuity.
 
-## Week 1: Sura 2
+## [Week 1: Sura 2](/quran/week-1-sura-2.md)
 
 This sura is easily the longest sura in the Qur'an. It contains 286 verses, several of which are longer than many of the earliest suras altogether. \(For example, verse 2:281 is the length of the entirety of [sura 89](/quran/sura-1.md).\) We will be focusing on the following five sections: verses 1-5, 140-177, 190-196, 255-262, and 285-286.
+
+## Week 2: Sura 4
+
+For this sura we will focus on one largish section followed by many smaller passages. We will begin with the first verse, and then skip to verses 13-40 which Hampton compares to Luke 15:11-31. We will then consider verses 48, 49, 58, 59, 64-70, 79-87, 94-96, 103-116, 125-129, 146-149, 153-162, and finally 171-176.
+
+
+
+
 
