@@ -27,7 +27,7 @@
     * [Week 3: Sura 5](quran/week-3-sura-5.md)
     * [Week 4: Suras 24 & 64](quran/sura-24.md)
       * [Sura 24](quran/sura-24/sura-24.md)
-      * [Sura 64](quran/sura-24/sura-64.md)
+      * [Sura 64 at-Taghābun التغابن](quran/sura-24/sura-64.md)
 * Daodejing - 道德經
 * उपनिषद्
 * धम्मपद
