@@ -50,3 +50,4 @@ We see here a theme that is a continuation from the Hebrew prophets and even Jes
 [^5]: Section titles translated (using Google Translate) from Neuwirth, Angelika. “Die Komposition der Suren und ihre Bauelemente” in _Studien zur Komposition der mekkanischen Suren_. Berlin: Walter de Gruyter, 2007\. 211\.
 
 [^6]: This and all following translations are by Dr. Nazeer Ahmed and can be found at https://historyofislam.com/the-quran/surah-68-suratul-qalam/.
+
