@@ -137,8 +137,4 @@ Finally, confirming the Qur’an and encouraging Muhammad not to lose faith in t
 
 [^6]: This and all following translations are by Dr. Nazeer Ahmed and can be found at https://historyofislam.com/the-quran/surah-68-suratul-qalam/.
 
-
-
-
-
 [^7]:
