@@ -13,9 +13,9 @@
 
 Sura 68, known as _al-Qalam_, translated as the Pen, takes its name from the first ayah. It is one of the earliest suras. Some consider it to be the second sura received after 96 (widely considered to be the first sura). Nöldeke places it a bit later, but still clearly in the earliest Meccan period. Javed Ahmed Ghamidi posits that, in spite of the fact that they were composed at different times, suras 67 and 68 compose a unit concerning “يَوْمِ الْقِيَامَةِ”, the Day of Judgment or Resurrection. He argues, “Just as in the previous sūrah the Quraysh are warned of the punishment of the Day of Judgement and of the punishment which they will face in this world if they deny the punishment of the Day of Judgement, similar is the warning sounded in this sūrah. However, this sūrah is more stern in its tone.”<sup><sup id="565915100367062-footnote-ref-4"><a href="#565915100367062-footnote-4">[4]</a></sup></sup> Perhaps it is not surprising that in a sura with this “more stern” tone, Al-Ghazzali did not find any jewels or pearls.
 
+# Part I: To the Prophets<sup><sup id="565915100367062-footnote-ref-5"><a href="#565915100367062-footnote-5">[5]</a></sup></sup> {#part-i-to-the-prophets-5}
 
 [^5]: Section titles translated (using Google Translate) from Neuwirth, Angelika. “Die Komposition der Suren und ihre Bauelemente” in _Studien zur Komposition der mekkanischen Suren_. Berlin: Walter de Gruyter, 2007\. 211\.
-## Sworn Passages {#sworn-passages}
 
 1.  Nu’n.By the Pen and what they write.<sup><sup id="565915100367062-footnote-ref-6"><a href="#565915100367062-footnote-6">[6]</a></sup></sup>
 
