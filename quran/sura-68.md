@@ -44,9 +44,9 @@ Already in this early sura we see God consoling the Prophet regarding accusation
 
 We see here a theme that is a continuation from the Hebrew prophets and even Jesus proclaiming themselves as different from those false prophets of their own time.
 
-[^6]: This and all following translations are by Dr. Nazeer Ahmed and can be found at https://historyofislam.com/the-quran/surah-68-suratul-qalam/.
 
 [^4]: Ghamidi, Javed Ahmed. “Sūrah Qalam (Part 1/2).” Al-Mawrid.
 
+[^5]: Section titles translated (using Google Translate) from Neuwirth, Angelika. “Die Komposition der Suren und ihre Bauelemente” in _Studien zur Komposition der mekkanischen Suren_. Berlin: Walter de Gruyter, 2007\. 211\.
 
 [^6]: This and all following translations are by Dr. Nazeer Ahmed and can be found at https://historyofislam.com/the-quran/surah-68-suratul-qalam/.
