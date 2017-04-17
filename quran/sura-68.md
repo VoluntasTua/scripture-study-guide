@@ -130,7 +130,6 @@ Again, connecting Muhammad to the prophetic tradition, God warns Muhammad not to
 Finally, confirming the Qur’an and encouraging Muhammad not to lose faith in the face of those who call him mad.
 
 
-
 [^4]: Ghamidi, Javed Ahmed. “Sūrah Qalam (Part 1/2).” Al-Mawrid.
 
 [^5]: Section titles translated (using Google Translate) from Neuwirth, Angelika. “Die Komposition der Suren und ihre Bauelemente” in _Studien zur Komposition der mekkanischen Suren_. Berlin: Walter de Gruyter, 2007\. 211\.
