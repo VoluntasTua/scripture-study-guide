@@ -8,7 +8,7 @@ The migration of Muhammed and his followers from Mecca to Yathrib \(later rename
 
 ## Muqaṭṭaʿāt
 
-29 of the 114 suras of the Qur'an begin with one or more disconnected letters. The meaning of these letters is not definitively known though there are many interpretations. Four of these suras are named after these letters:  _Ṭāʾ-Hāʾ_ \(20\), [_Yāʾ-Sīn_ \(36\)](/quran/week-4-suras-36-67-32/sura-36.md), [_Ṣād_ \(38\)](/quran/week-3-suras-19-38/sura-38.md) and _Qāf_ \(50\).
+29 of the 114 suras of the Qur'an begin with one or more disconnected letters. The meaning of these letters is not definitively known though there are many interpretations. Four of these suras are named after these letters: _Ṭāʾ-Hāʾ_ \(20\), [_Yāʾ-Sīn_ \(36\)](/quran/week-4-suras-36-67-32/sura-36.md), [_Ṣād_ \(38\)](/quran/week-3-suras-19-38/sura-38.md) and _Qāf_ \(50\).
 
 ## Sura
 
