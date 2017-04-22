@@ -18,6 +18,7 @@
       * [Sura 56 الواقعة](quran/sura-56.md)
       * [Sura 68 القلم](quran/sura-68.md)
     * [Week 3: Suras 19, 38](quran/week-3-suras-19-38.md)
+      * [Sura 38](quran/week-3-suras-19-38/sura-38.md)
     * [Week 4: Suras 36, 67, 32](quran/week-4-suras-36-67-32.md)
       * [Sura 32 السجدة](quran/week-4-suras-36-67-32/sura-32-.md)
       * [Sura 36 يس](quran/week-4-suras-36-67-32/sura-36.md)
