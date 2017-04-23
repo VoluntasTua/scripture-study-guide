@@ -33,7 +33,54 @@ The middle part can further be divided into three sections. Traditionally, these
 
 ## _Ayat_
 
-The heart of the sura lies in verses 33-44. These include the _ayat_ or signs.
+The heart of the sura lies in verses 33-44, in which are found 12 of the 25 jewels in this chapter. These are the _ayat_ or signs.
+
+> And a Sign for them is the earth that is dead.  
+> We give it life,  
+> And We bring forth from it crops of which you eat.
+>
+> And We make in it gardens of dates and grapes,  
+> And We cause springs to gush forth from it,
+>
+> So that they eat the fruits thereof.  
+> Lo! It is not their hands that produced them!  
+> Therefore, will they not be thankful?
+>
+> Glorified is He  
+> Who made everything in complements \(pairs\)  
+> In what grows on earth –  
+> And among their own selves –  
+> And of which they have no knowledge.
+>
+> And a Sign for them is the night,  
+> We take away from it the \(light of the\) day,  
+> And lo! They are in darkness!
+>
+> And the sun moves in its determined orbit –  
+> That is the decree of the Mighty, the Knower.
+>
+> And for the moon We have decreed the phases,  
+> Until it becomes \(shriveled\) like an old stalk of a date palm.
+>
+> The sun dare not defy \(what is decreed for\) it  
+> And catch up with the moon,  
+> Nor for the night to appear before the day –  
+> Lo! Each one rotates in its own orbit!
+>
+> And a Sign for them is that We carried their progeny  
+> In a ship filled,
+>
+> And We made for them similar \(vessels\) which they ride.
+>
+> And had We so willed it,  
+> We would have drowned them;  
+> In which case, they would have none to supplicate,  
+> And none to rescue them,
+>
+> Except the Mercy from Us,  
+> And a worldly respite for a time.
+
+
 
 
 
