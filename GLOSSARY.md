@@ -1,6 +1,6 @@
 ## Ayah
 
-Ayah \(ayat, _pl_.\) translates as "verse". It literally means "sign". Each sura consists of anywhere from 3 to 286 ayat.
+Ayah \(ayat, _pl_.\) translates as "verse". It literally means "sign". A sura consists of anywhere from 3 to 286 ayat.
 
 ## Hijra
 
@@ -8,7 +8,7 @@ The migration of Muhammed and his followers from Mecca to Yathrib \(later rename
 
 ## Juz
 
-Besides the 114 suras \(or "enclosures"\), the Qur'an can also be divided into 30 roughly equal parts, or _juz_. The last such part, _Juz Amma_ contains the last 37 suras of the Quran. These are also the shortest suras, and almost all from the early Meccan period \(with the exception of 98 and 110 which are considered to be Medinan\). Muslims will typically start their study of the Qur'an with _Juz Amma_, often memorizing it in its entirety. 
+Besides the 114 suras \(or "enclosures"\), the Qur'an can also be divided into 30 roughly equal parts, or _juz_. The last such part, _Juz Amma_ contains the last 37 suras of the Quran. These are also the shortest suras, and almost all from the early Meccan period \(with the exception of 98 and 110 which are considered to be Medinan\). Muslims will typically start their study of the Qur'an with _Juz Amma_, often memorizing it in its entirety.
 
 ## Muqaṭṭaʿāt
 
