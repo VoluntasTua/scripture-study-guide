@@ -31,7 +31,9 @@ The middle part can further be divided into three sections. Traditionally, these
 >
 > 32: And every one of them shall not but be presented before Us
 
-The heart of the sura lies in verses 33-47 \(excluding 46\). 
+## _Ayat_
+
+The heart of the sura lies in verses 33-44. These include the _ayat_ or signs.
 
 
 
@@ -43,7 +45,7 @@ The heart of the sura lies in verses 33-47 \(excluding 46\).
 
 [^4]: Neuwirth, Angelika. 2007.Studien Zur Komposition Der Mekkanischen Suren. 1st ed. Berlin: de Gruyter.
 
-[^5]: "The Quranic Arabic Corpus - Word By Word Grammar, Syntax And Morphology Of The Holy Quran". 2017.Corpus.Quran.Com. http://corpus.quran.com/wordbyword.jsp?chapter=36&verse=13.
+[^5]: "The Quranic Arabic Corpus - Word By Word Grammar, Syntax And Morphology Of The Holy Quran". 2017.Corpus.Quran.Com. [http://corpus.quran.com/wordbyword.jsp?chapter=36&verse=13](http://corpus.quran.com/wordbyword.jsp?chapter=36&verse=13).
 
-[^6]: "Surah 36. Surah Ya Sin". 2017.History Of Islam. https://historyofislam.com/the-quran/surah-36-surah-yasin/.
+[^6]: "Surah 36. Surah Ya Sin". 2017.History Of Islam. [https://historyofislam.com/the-quran/surah-36-surah-yasin/](https://historyofislam.com/the-quran/surah-36-surah-yasin/).
 
