@@ -60,6 +60,10 @@ Six modules focus on East Asian traditions including Hinduism, Buddhism, Confuci
 
 Every year we will try to cover one or more texts deemed sacred from a tradition other than those listed above. These might include sacred texts that originated outside the Asian continent \(such as Africa, Europe, or the Americas\), texts that are less than 1000 years old \(such as the Book of Mormon or the Gospel of Sri Ramakrishna\), or texts of other minority religions not represented above \(such as Zoroastrianism\).
 
+## On Your Own
+
+Every month, we will meet in person to discuss the text\(s\) we have been reading over the last four weeks. Each participant should bring a passage of about a dozen lines or so that you find particularly speaks to you. It could be from one of the assigned portions, or from something else related. Be prepared to read it and to speak a bit about why it spoke to you. Remember, this is not a forum for textual criticism but a space for religious contemplation.  
+
 ## On Translation
 
 Needless to say, most of us must approach most \(if not all\) of these texts in translation. So then the question arises: which translation to use? There is no definitive answer to this question. The short answer is: several. Some translations are objectively better than others, but no translation is perfect. Each translation is, to a certain extent, an interpretation. For the purposes of this course, I will prefer translations that are freely available online though I may make recommendations for translations that I particularly like even if they are not free.
@@ -71,6 +75,4 @@ Some like to say that you should read scripture without commentary, that you sho
 On the other hand, too much commentary can also be a distraction. Academics often fall to the other extreme, taking on so many other points of view that the text itself gets crowded out by a sea of voices leaving no space for the reader to have her own experience of the text.
 
 In this guide, I try to strike a balance between the two. I try to give enough context to render the text comprehensible, but not so much as to be distracting. I rarely provide interpretations except where I think that they are particularly interesting, and even there, only tentatively. Ultimately, the meaning of the text lies with the reader. Other writers can only provide hints.
-
-
 
