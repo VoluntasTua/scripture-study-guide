@@ -62,7 +62,15 @@ Every year we will try to cover one or more texts deemed sacred from a tradition
 
 ## On Translation
 
-Needless to say, most of us must approach most \(if not all\) of these texts in translation. So then the question arises: which translation to use? There is no definitive answer to this question. The short answer is: several. Some translations are objectively better than others, but no translation is perfect. Each translation is, to a certain extent, an interpretation. For the purposes of this course, I will prefer translations that are freely available online though I may make recommendations for translations that I particularly like even if they are not free. 
+Needless to say, most of us must approach most \(if not all\) of these texts in translation. So then the question arises: which translation to use? There is no definitive answer to this question. The short answer is: several. Some translations are objectively better than others, but no translation is perfect. Each translation is, to a certain extent, an interpretation. For the purposes of this course, I will prefer translations that are freely available online though I may make recommendations for translations that I particularly like even if they are not free.
+
+## On Commentary
+
+Some like to say that you should read scripture without commentary, that you should let it stand on its own and speak with its own voice. Taken to it's extreme, this is terrible advice. Those who promote this point of view are typically deeply steeped in their own religious tradition and dramatically underestimate the amount of tacit knowledge they have about their own scripture. For someone who grew up hearing about the stories of the Buddha, or Jesus, or Muhammad, perhaps commentary is unnecessary.
+
+On the other hand, too much commentary can also be a distraction. Academics often fall to the other extreme, taking on so many other points of view that the text itself gets crowded out by a sea of voices leaving no space for the reader to have her own experience of the text.
+
+In this guide, I try to strike a balance between the two. I try to give enough context to render the text comprehensible, but not so much as to be distracting. I rarely provide interpretations except where I think that they are particularly interesting, and even there, only tentatively. Ultimately, the meaning of the text lies with the reader. Other writers can only provide hints.
 
 
 
