@@ -3,9 +3,10 @@
 * [Introduction](README.md)
 * [Torah - תּוֹרָה](torah.md)
 * [Prophets - נְבִיאִים‎](prophets/README.md)
-  * [Elijah אליהו](prophets/elijah.md)
-  * [Amos עמוס](prophets/amos.md)
-  * [Zechariah זכריה](prophets/zechariah.md)
+  * [Elijah - אליהו](prophets/elijah.md)
+  * [Amos - עמוס](prophets/amos.md)
+  * Jeremiah - ירמיהו
+  * [Zechariah - זכריה](prophets/zechariah.md)
 * [Gospels - εὐαγγέλιον](gospels-.md)
 * [Qur'an - القرآن‎‎](quran/README.md)
   * [Meccan Suras](quran/meccan-suras.md)
