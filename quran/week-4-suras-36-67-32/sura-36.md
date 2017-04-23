@@ -10,20 +10,13 @@ The tripartite structure of this sura is thus: \(I, 1–12; II, 13–68; III, 69
 
 The middle part can further be divided into three sections. Traditionally, these would be 13-32, 33-50, 51-67. Neuwirth divides them slightly differently: 13-32, 33-47, 48-68. Neuwirth[^4] titles the first of these with just a transliteration of the phrase مَثَلًا أَصْحَبَ الْقَرْيَةِ which translates literally as "an example \(of the\) companions \(of\) the city".[^5] She further posits that verse 46 belongs after verse 30. With that adjustment, the end of this section would read as follows \(using Dr. Nazeer Ahmed's translation[^6]\):
 
-> 28: And, after this, We did not send down  
-> An army on his people from the heavens,  
-> Nor were We disposed to send down \(such an army\).
->
-> 29: It was not but a single mighty blast,  
-> And they were silenced \(as burnt ashes\)!
->
 > 30: Alas for My servants!  
 > There does not come any Messenger to them,  
 > But they ridicule him.
 >
-> 46: And there has not come for them a Sign  
+> \[46: And there has not come for them a Sign  
 > From the Signs of their Rabb,  
-> Except that they excuse themselves from it.
+> Except that they excuse themselves from it.\]
 >
 > 31: Have they not observed,  
 > How many settlements \(civilizations\) We destroyed before them  
@@ -33,7 +26,7 @@ The middle part can further be divided into three sections. Traditionally, these
 
 ## _Ayat_
 
-The heart of the sura lies in verses 33-44, in which are found 12 of the 25 jewels in this chapter. These are the _ayat_ or signs.
+The heart of the sura lies in verses 33-44, which make up 12 of the 25 jewels in this chapter. These are the _ayat_ or signs:
 
 > And a Sign for them is the earth that is dead.  
 > We give it life,  
@@ -80,9 +73,86 @@ The heart of the sura lies in verses 33-44, in which are found 12 of the 25 jewe
 > Except the Mercy from Us,  
 > And a worldly respite for a time.
 
+Closing this section is an admonition to heed these signs. While Neuwirth moves verse 46 above, it fits also in its traditional spot below:
 
+> 45: And when it is said to them:  
+> “Beware of what is in between  
+> What is ahead of you  
+> And what is behind you –  
+> \(What is happening here and now\) –  
+> Perhaps you will find Mercy.”
+>
+> \(46: And there has not come for them a Sign  
+> From the Signs of their Rabb,  
+> Except that they excuse themselves from it.\)
+>
+> 47: And when it is said to them:  
+> “Set aside \(in charity\) from what Allah has provided you”,  
+> The disbelievers say to the believers:  
+> “Should we feed one whom Allah would feed if He was so disposed?”  
+> You are not but in manifest error.
 
+Following this is a section about يَوْمَ, "the Day" \(vv. 48-68\). It evokes the sound of the trumpets described in the Christian book of Revelation \(chapter 8\) which is, in turn, an allusion to the trumpets that brought down Jericho \(Joshua 6\) which is an extension of the use of trumpets described in the Torah \(Numbers 10\).
 
+## Revelation, Promise, Omnipotence
+
+In verse 69, the attention is returned to the prophet and his message, as at the beginning of the sura. This section, beginning with verse 71, contains the final 13 jewels in this sura that further reveal the nature of God.
+
+> Do they not see,  
+> That We created for them domesticated animals  
+> With Our power,  
+> So that they may own them?
+>
+> And We made them obedient,  
+> So that some of them they ride,  
+> And of some they eat.
+>
+> And in them there are benefits for them,  
+> And drink,  
+> Will they not be thankful?
+>
+> Yet \(even after all these blessings\)  
+> They take deities besides Allah  
+> Thinking that they will help them.
+>
+> No capacity do they have to help them!  
+> And they shall be presented in arrays \(as witness\) against them.
+>
+> Therefore, do not be dismayed by what they say,  
+> We do indeed know what they hide and what they reveal.
+
+We see in this section the call for gratitude, a recurring theme throughout the Qur'an. 
+
+Finally, the jewels concerning the miracle of life and death:
+
+> Does not the human see that We did indeed create him  
+> From \(a drop of\) seminal fluid?  
+> And then he hastens to become an open contender!
+>
+> And he has invented a likeness for Us,  
+> And has forgotten his creation \(his origins\);  
+> \(And\) he says: “Who will give life to the bones  
+> When they have dissolved \(in the earth\)?”
+>
+> Say: “He will give them life,  
+> Who conceived of him \(created him\) in the first place,  
+> And He is the Knower of all creation.”
+>
+> “He who derives for you a spark from a green tree \(brings forth energy from matter\),  
+> Then with it you make fire!”
+>
+> Does He not, who created the heavens and the earth,  
+> Have the power to create the likes of them?  
+> No! He is the Creator Supreme \(Creator of the essence of creation\),  
+> The Ultimate Knower!
+>
+> Indeed, when He wills something,  
+> His command is not but:  
+> “Be!” And it was!
+>
+> So, glorified is He,  
+> In Whose hands is the dominion of all beings!  
+> And to Him shall you return!
 
 [^1]: Federspiel, Howard M. 1994.Popular Indonesian Literature Of The Qur'an. 1st ed. Ithaca, N.Y.: Cornell Modern Indonesia Project, Southeast Asia Program, Cornell Univ.
 
