@@ -121,7 +121,7 @@ In verse 69, the attention is returned to the prophet and his message, as at the
 > Therefore, do not be dismayed by what they say,  
 > We do indeed know what they hide and what they reveal.
 
-We see in this section the call for gratitude, a recurring theme throughout the Qur'an. 
+We see in this section the call for gratitude, a recurring theme throughout the Qur'an.
 
 Finally, the jewels concerning the miracle of life and death:
 
@@ -153,6 +153,8 @@ Finally, the jewels concerning the miracle of life and death:
 > So, glorified is He,  
 > In Whose hands is the dominion of all beings!  
 > And to Him shall you return!
+
+## References
 
 [^1]: Federspiel, Howard M. 1994.Popular Indonesian Literature Of The Qur'an. 1st ed. Ithaca, N.Y.: Cornell Modern Indonesia Project, Southeast Asia Program, Cornell Univ.
 
