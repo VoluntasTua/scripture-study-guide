@@ -14,7 +14,7 @@ This still does not get us any closer to what a prophet _is_ \(or was\), however
 
 So if a prophet is not a fortune teller, and a prophet is not a doom sayer, what is a prophet? Some say a prophet is a messenger from the divine. Now we are finally starting to get close. But even that only tells us half of the picture, for a prophet is also an intermediary. A prophet speaks to the people on behalf of their God, but just as importantly, speaks to God on behalf of the people. The prophet stands in an uncomfortable position, torn between two worlds: the world of the people, and the world of the infinite. Because of the prophet's intimacy with the transcendent, she or he \(and several Hebrew prophets were women\) cannot ignore the ways in which people behave that violate the covenant between a creature and her creator.
 
-
+In Overholt's \(2003\) treatment of the topic, he compares the prophets of the Hebrew Bible with figures we might more commonly think of as shamans and the comparison is apt. In either case, we have an individual who stands as an intermediary between the social and spiritual realms of existence. What makes the Abrahamic prophetic tradition remarkable is in the way these prophets played a role in the political and religious history of these peoples.
 
 ## References
 
