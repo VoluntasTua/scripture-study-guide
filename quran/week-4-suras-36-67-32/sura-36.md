@@ -73,7 +73,7 @@ The heart of the sura lies in verses 33-44, which make up 12 of the 25 jewels in
 > Except the Mercy from Us,  
 > And a worldly respite for a time.
 
-Closing this section is an admonition to heed these signs. While Neuwirth moves verse 46 above, it fits also in its traditional spot below:
+Closing this section is an admonition to heed these signs. Verses 45 and 46 are considered by some to be later insertions and Neuwirth moves verse 46 above. 
 
 > 45: And when it is said to them:  
 > “Beware of what is in between  
@@ -91,6 +91,13 @@ Closing this section is an admonition to heed these signs. While Neuwirth moves 
 > The disbelievers say to the believers:  
 > “Should we feed one whom Allah would feed if He was so disposed?”  
 > You are not but in manifest error.
+
+Notice that verse 45 echoes verse 9 above:
+
+> 9: And We have erected in front of them a wall,   
+> And behind them a wall,   
+> And We have placed a curtain \(a membrane\) over them,   
+> So they cannot see \(have no inner vision\).
 
 Following this is a section about يَوْمَ, "the Day" \(vv. 48-68\). It evokes the sound of the trumpets described in the Christian book of Revelation \(chapter 8\) which is, in turn, an allusion to the trumpets that brought down Jericho \(Joshua 6\) which is an extension of the use of trumpets described in the Torah \(Numbers 10\).
 
