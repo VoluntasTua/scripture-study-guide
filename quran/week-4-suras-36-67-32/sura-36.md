@@ -94,6 +94,10 @@ Closing this section is an admonition to heed these signs. While Neuwirth moves 
 
 Following this is a section about يَوْمَ, "the Day" \(vv. 48-68\). It evokes the sound of the trumpets described in the Christian book of Revelation \(chapter 8\) which is, in turn, an allusion to the trumpets that brought down Jericho \(Joshua 6\) which is an extension of the use of trumpets described in the Torah \(Numbers 10\).
 
+This section includes the heart of this sura, verse 58:
+
+> “Peace!” shall be the Word from their Rabb, Most Merciful!
+
 ## Revelation, Promise, Omnipotence
 
 In verse 69, the attention is returned to the prophet and his message, as at the beginning of the sura. This section, beginning with verse 71, contains the final 13 jewels in this sura that further reveal the nature of God.
@@ -128,7 +132,9 @@ Finally, the jewels concerning the miracle of life and death:
 > Does not the human see that We did indeed create him  
 > From \(a drop of\) seminal fluid?  
 > And then he hastens to become an open contender!
->
+
+This verse is remeniscent of how the child contends against the parent.
+
 > And he has invented a likeness for Us,  
 > And has forgotten his creation \(his origins\);  
 > \(And\) he says: “Who will give life to the bones  
@@ -157,8 +163,6 @@ Finally, the jewels concerning the miracle of life and death:
 ## 
 
 ## References
-
-
 
 [^1]: Federspiel, Howard M. 1994.Popular Indonesian Literature Of The Qur'an. 1st ed. Ithaca, N.Y.: Cornell Modern Indonesia Project, Southeast Asia Program, Cornell Univ.
 
