@@ -24,5 +24,5 @@ Commonly referred to as the Hebrew Bible, the Tanakh contains three parts: the _
 
 ## Theodicy
 
-The vindication of divine goodness and providence in view of the existence of evil. This is a common theme among the prophets of the Abrahamic tradition from Jeremiah at the start of the Babylonian Exile \(6th Century B.C.E\) all the way through to Muhammad and the Hijra \(7th Century C.E.\)
+The vindication of divine goodness and providence in view of the existence of evil. This is a common theme among the prophets of the Abrahamic tradition from Jeremiah at the start of the Babylonian Exile \(6th Century B.C.E\) all the way through to Muhammad and the Hijra \(7th Century C.E.\) as well as among many Jewish, Christian, and Muslim theologians up through the present day.
 
