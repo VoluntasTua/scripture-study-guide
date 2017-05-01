@@ -22,5 +22,9 @@ Sura \(also sometimes transliterated as _surah_\) translates as "chapter". It li
 
 Commonly referred to as the Hebrew Bible, the Tanakh contains three parts: the _Torah_ \(Law\), the _Nevi'im_ \(Prophets\), and the _Ketuvim_ \(Writings\). _Tanakh_ is a Hebrew acronym of these three. The Tanakh contains the same texts as the Protestant Old Testament, though it is divided differently. In all versions of the Bible, the first collection is the Torah or Pentateuch \(literally meaning "Five Books" referring to the five books of Moses\): Genesis, Exodus, Leviticus, Numbers, and Deuteronomy. The Protestant Old Testament then proceeds with the Historical Books, some of which are included in the Hebrew _Nevi'im_ and some in the _Ketuvim_. Then follows the Wisdom books, which are entirely included in the Hebrew _Ketuvim_. Then the Major Prophets, some of which, again, are in the _Nevi'im_, and some in the _Ketuvim_. And finally the 12 Minor Prophets, all of which appear in the _Nevi'im_. Catholic and Eastern Orthodox versions of the Old Testament include all of these books and several more. For our purposes, we will be using the Hebrew division for convenience. So we will devote one month to the Torah/Pentateuch, one month to the Prophets \(including portions from the Historical Books, and both the Major and Minor Prophets\), and one month for the _Ketuvim_, focusing specifically on the Wisdom books, especially the three Poetic books: Psalms, Proverbs, and Job.
 
+## Theodicy
+
+The vindication of divine goodness and providence in view of the existence of evil.
+
 
 
