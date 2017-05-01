@@ -2,6 +2,10 @@
 
 Ayah \(ayat, _pl_.\) translates as "verse". It literally means "sign". A sura consists of anywhere from 3 to 286 ayat.
 
+## Deutero-Isaiah
+
+The book of Isaiah \(located among the Prophets of the Hebrew Bible\) is divided into three parts. The first part \(chapters 1-39\) regard the original prophet Isaiah from around the turn of the 7th century B.C.E. The second part \(chapters 40-55\) concern a different anonymous prophet some generations later during the exilic period. Internal evidence attests to authorship separated in time though the text itself is undivided. The second \(anonymous\) prophet is traditionally referred to as "Deutero-Isaiah" or sometimes "2 Isaiah" to distinguish him or her from the original Isaiah. The last section \(chapters 56-66\), sometimes referred to as "Trito-Isaiah" is an anthology of short works.
+
 ## Hijra
 
 The migration of Muhammed and his followers from Mecca to Yathrib \(later renamed by him to Medina\) in 622 C.E. This marks the beginning of the Islamic calendar.
