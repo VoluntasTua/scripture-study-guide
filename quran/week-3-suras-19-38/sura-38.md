@@ -44,7 +44,7 @@ Neuwirth believes that verses 27 and 28 belong before 65 and 66 which together m
 > Like those who spread mischief on earth?  
 > Would We make those who are conscious of Us,  
 > Like those who do evil?
-
+>
 > 65: Say: “I am not but a Warner,  
 > And there is no deity but Allah,  
 > The One, the Irresistible.
@@ -57,7 +57,16 @@ Neuwirth believes that verses 27 and 28 belong before 65 and 66 which together m
 >
 > 68: From which you turn away.
 
-The pearls, 27 and 28, 
+The pearls, 27 and 28, contain a bit of theodicy, discussing why the wicked should seem to prosper while the righteous suffer.
+
+The jewels in verses 65-68 \(the only jewels in this sura\) describe God's transcendence. It is reminiscent of the words of Deutero-Isaiah \(55:8\):
+
+> “For my thoughts are not your thoughts,  
+> and your ways are not my ways,” says Adonai.
+
+
+
+
 
 27-28 pearls \(Neuwirth thinks these go before 65?\)
 
