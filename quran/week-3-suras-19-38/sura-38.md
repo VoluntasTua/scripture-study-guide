@@ -64,27 +64,29 @@ The jewels in verses 65-68 \(the only jewels in this sura\) describe God's trans
 > “For my thoughts are not your thoughts,  
 > and your ways are not my ways,” says Adonai.
 
+The next verse is somewhat cryptic. It reads \(without editorial amplification\):
+
+> I had no knowledge of the highest domain,  
+> When they were arguing among themselves,
+
+Asad's translation reads as follows \(with explanatory insertions\):
+
+> \[Say, O Muhammad:\] "No knowledge would I have had of \[what passed among\] the host on high  
+> when they argued \[against the creation of man\],
+
+This is a reference to a story that is not in the Bible itself but has persisted in the folklore around the Bible. In the 17th century C.E. we've seen this story portrayed by John Milton in his book _Paradise Lost_. It concerns the jealousy and rebellion of angels against the creation of humanity. This story continues through to verse 85 which culminates in an explanation of the satans' role in the life of humanity.
+
+Finally, the sura concludes with these pearls:
+
+> Say: “I do not seek any compensation from you for this,  
+> And I am not among those who make up pretenses.
+>
+> This is but a Reminder for all the worlds.
+>
+> And you shall learn what it conveys,  
+> When the time has come to pass.”
 
 
-
-
-27-28 pearls \(Neuwirth thinks these go before 65?\)
-
-35 - ?? says "spiritual kingdom" but the kingdom did split after Solomon
-
-41 - 44 - Job
-
-\(Job may be from an Arabian \(Nabataean?\) peom? see note 78 on 21 : 83.\)
-
-48 - Elisha ref Elijah
-
-50-64 afterlife bullshit
-
-65-68 - jewels
-
-69 - angels argued against the creation of man
-
-86-88 - pearls
 
 [^1]: "Surah 38. Surah Saad". 2017.History Of Islam. [https://historyofislam.com/the-quran/surah-38-surah-saad/](https://historyofislam.com/the-quran/surah-38-surah-saad/). 
 
