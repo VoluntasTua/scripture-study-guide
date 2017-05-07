@@ -5,7 +5,7 @@
 * [Prophets - נְבִיאִים‎](prophets/README.md)
   * [Elijah - אליהו](prophets/elijah.md)
   * [Amos - עמוס](prophets/amos.md)
-  * Jeremiah - ירמיהו
+  * [Jeremiah - ירמיהו](prophets/jeremiah-.md)
   * [Zechariah - זכריה](prophets/zechariah.md)
 * Wisdom - כְּתוּבִים
   * Job - אִיוֹב
@@ -41,3 +41,4 @@
 * Daodejing - 道德經
 * उपनिषद्
 * धम्मपद
+
