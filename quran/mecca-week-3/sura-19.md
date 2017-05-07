@@ -10,7 +10,7 @@ This sura is unusual in that it divides into two parts, as opposed to the usual 
 
 The first two parts of the first section of the sura concern Zechariah \(father of John the Baptist\) and Mary \(mother of Jesus\). It is a retelling of the first chapter of the Gospel according to Luke. It relates the account of two miraculous conceptions. In the first, Zechariah's wife is barren. This recalls the barrenness of Abra\(ha\)m's wife Sarah \(_cf._ Genesis 15:3 and Sura 51:29-30\) as well as many other such stories from the Hebrew tradition \(Rebekah, Rachel, Hannah, and so on\). In the second,  Mary is but a virgin \(v. 20, _cf._ Luke 1:34\). In the Christian tradition, this is interpreted as fulfillment of the prophesy of Isaiah \(7:14, \_cf. \_Matt 1:22\) though a more accurate translation of Isaiah is not "virgin" but "young woman". Nonetheless, the virgin birth of Jesus is of great significance to Christians and Muslims alike.
 
-This section ends with an admonition not to mistake the nature of Jesus, either as God \(as the Christians do\) or as a false prophet \(as the Jews do\). Ghazali considers these two verses to be pearls:
+This section ends with an admonition not to mistake the nature of Jesus, either as God \(as the Christians do\) or as a false prophet \(as the Jews do\). Ghazali considers these two verses to be pearls:[^4]
 
 > 39: And warn them of the Day of Wistfulness \(the Day of Sighing\),  
 > When the matter will be decided.  
@@ -29,11 +29,13 @@ Verses 56 and 57 refer to a prophet named Idris. Asad \(2003\)[^2] has this to s
 
 > The majority of the classical commentators identify the Prophet Idris . . . with the Biblical Enoch \(Genesis v. 18-19 and 21-24\), withouth, however, being able to adduce any authority for this purely conjectural identification. Some modern Aur'an-commentators suggest that the name Idris may be the Arabacized form of Osiris . . . but this assumption is too far-fetched to deserve any serious consideration. Finally, some of the earliest Qur'an-commentators \[assert\] that "Idris" is but another name for Ilyas, the Biblical Elijah.
 
-Towards the end of the section are the pearls that Neuwirth describes the "reward of the pious"
-
-
+Towards the end of the section are the pearls that Neuwirth describes the "reward of the pious"[^3]
 
 [^1]: Asma Barlas. "Believing Women" in Islam: Unreading Patriarchal Interpretations of the Quran \(Kindle Location 1484\). Kindle Edition.
 
 [^2]: Asad, Muhammad. \(2003\). The Message of the Qur'an \(p. 517\). Oriental Press. Dubai.
+
+[^3]: Neuwirth, Angelika. 2007.Studien Zur Komposition Der Mekkanischen Suren. \(p. 269\) Berlin: de Gruyter. \(translation by [Google Translate](https://translate.google.com/#de/en/Lohn der Frommen)\)
+
+[^4]: Quasem, Muhammad Abul. \(1977\). The Jewels of the Qur'an: Al-Ghazali's Theory \(p. 189\). University of Malaysia Press. Lembah Pantai, Kuala Lumpur.
 
