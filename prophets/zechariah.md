@@ -15,7 +15,7 @@ The majority of this section, sometimes referred to as First Zechariah, concerns
 [smile]: /assets/Weigel_Four_horns_and_craftsmen.jpg
 {: height="36px" width="36px"}
 
-![]("/assets/Weigel_Four_horns_and_craftsmen.jpg" =30x30)
+![](/assets/Weigel_Four_horns_and_craftsmen.jpg :=30x30)
 
 | ![](/assets/Michelangelo,_profeti,_Zechariah_01.jpg) |
 | :---: |
