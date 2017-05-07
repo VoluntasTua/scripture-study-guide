@@ -25,11 +25,15 @@ This section ends with an admonition not to mistake the nature of Jesus, either 
 
 The middle of the sura—the last part of the first section—verses 41-65, contains accounts of prophets knowns from the [Torah](/torah.md). The longest section \(vv. 41-50\) describes Abraham's relationship with his father. This, along with the polemic at the end against the Christian belief that Jesus is the literal son of God \(v. 89\) has been identified by Asma Barlas \(2002\) as "necessarily a conflict between monotheism and patriarchy \(in its traditional sense\)."[^1] In other words, the relationship between the child and the father is emphatically _not_ like the relationship between a Muslim and God. This is quite distinct from the Judeo-Christian metaphor of God-as-Father which occurs in both Hebrew and Christian scripture.
 
-Verses 56 and 57 refer to a prophet named Idris. 
+Verses 56 and 57 refer to a prophet named Idris. Asad \(2003\)[^2] has this to say about this prophet:
 
+> The majority of the classical commentators identify the Prophet Idris . . . with the Biblical Enoch \(Genesis v. 18-19 and 21-24\), withouth, however, being able to adduce any authority for this purely conjectural identification. Some modern Aur'an-commentators suggest that the name Idris may be the Arabacized form of Osiris . . . but this assumption is too far-fetched to deserve any serious consideration. Finally, some of the earliest Qur'an-commentators \[assert\] that "Idris" is but another name for Ilyas, the Biblical Elijah.
 
+Towards the end of the section are the pearls that Neuwirth describes the "reward of the pious"
 
 
 
 [^1]: Asma Barlas. "Believing Women" in Islam: Unreading Patriarchal Interpretations of the Quran \(Kindle Location 1484\). Kindle Edition.
+
+[^2]: Asad, Muhammad. \(2003\). The Message of the Qur'an \(p. 517\). Oriental Press. Dubai.
 
