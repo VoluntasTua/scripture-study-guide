@@ -10,7 +10,7 @@ The book of Zechariah consists of two parts. The first, chapters 1-8, pertain to
 
 The majority of this section, sometimes referred to as First Zechariah, concerns a series of eight visions. One of the things we see in the evolution of the Hebrew prophet is a developing complexity of the prophetic vision. Early on, in [Amos](/prophets/amos.md) \(chapters 7-9\), we see a series of five visions. The first two are fairly straightforward, depicting destruction by locusts \(7:1-3\) and by fire \(7:4-6\). The third enters more into the realm of symbolism in which God sets "a plumb line in the midst of my people" \(7:8\). Later, Isaiah has a vision in which a seraph touches his lips with a live coal from the temple altar to purify his speech \(6:7\). Jeremiah begins with a vision of an almond tree \(1:11\) and a boiling pot \(1:13\) which both must be interpreted. But it is while the Jews are in captivity that the prophetic visions get particularly bizarre. Ezekiel's visions often contain the phrase "something like", indicating the failure of words to depict what the prophet saw in his vision. In Zechariah, one of his visions is so strange that he cannot even describe it himself. Instead, an angel describes it for him \(5:6\).
 
-![](./assets/Weigel_Four_horns_and_craftsmen.jpg =250x)
+![](../assets/Weigel_Four_horns_and_craftsmen.jpg =250x)
 
 | ![](/assets/Michelangelo,_profeti,_Zechariah_01.jpg) |
 | :---: |
