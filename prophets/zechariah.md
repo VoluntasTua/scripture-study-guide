@@ -1,3 +1,12 @@
+# Zechariah
+
+# זכריה
+
+## Introduction
+
+Zechariah is one of the last prophets--chronologically--in the Hebrew Bible. He prophesied during the beginning of the restoration after the Jews were released from Babylonian captivity. 
+
+
 | ![](/assets/Michelangelo,_profeti,_Zechariah_01.jpg) |
 | :---: |
 | Sistine Chapel ceiling - Zechariah |
@@ -7,6 +16,3 @@
 | ![](/assets/Seleznikha_church_-_prophet_Zechariah_%2818_c.%29.jpg) | ![](/assets/Weigel_Four_horns_and_craftsmen.jpg) |
 | :--- | :--- |
 | Seleznikha church - prophet Zechariah \(18 c.\) | A rendering of Zechariah’s vision of the four horns and four craftsmen, symbolizing the scattering of the nations, from Christoph, Weigel |
-
-
-
