@@ -19,7 +19,7 @@ Sura 68, known as _al-Qalam_, translated as the Pen, takes its name from the fir
 
 1.  Nu’n.By the Pen and what they write.<sup><sup id="565915100367062-footnote-ref-6"><a href="#565915100367062-footnote-6">[6]</a></sup></sup>
 
-This is the earliest sura with a disconnected letter, or _muqattaʿat_. Like many of the early suras, it begins with an oath, in this case, “By the Pen”.
+This is the earliest sura with a disconnected letter, or _muqaṭṭaʿāt_. Like many of the early suras, it begins with an oath, in this case, “By the Pen”.
 
 1.  You are not, by the Grace of your Rabb, mad.
 2.  And indeed, of a certainty, there is for you an endless reward.
