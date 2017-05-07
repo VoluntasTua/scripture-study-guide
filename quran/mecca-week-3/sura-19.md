@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This sura is unusual in that it divides into two parts, as opposed to the usual three. The first part \(which contains 2/3 of the sura\) does, however, consist of the usual tripartite structure, in this case of 14 + 25 + 25 \(not counting the _muqaṭṭaʿāt_ in the first ayah\).
+This sura contains six sections. The first four describe Biblical prophets while the last two contain a polemic confirming revelation. The first two sections retell a story from the New Testament, namely the Gospel of Luke, regarding the parents of John the Baptist and Jesus respectively. The middle two sections refer to prophets from the Torah, especially Abraham.
 
 ## Zechariah and Mary
 
@@ -23,9 +23,9 @@ This section ends with an admonition not to mistake the nature of Jesus, either 
 
 ## Abraham and other Prophets
 
-The middle of the sura—the last part of the first section—verses 41-65, contains accounts of prophets knowns from the [Torah](/torah.md). The longest section \(vv. 41-50\) describes Abraham's relationship with his father. This, along with the polemic at the end against the Christian belief that Jesus is the literal son of God \(v. 89\) has been identified by Asma Barlas \(2002\) as "necessarily a conflict between monotheism and patriarchy \(in its traditional sense\)."[^1] In other words, the relationship between the child and the father is emphatically _not_ like the relationship between a Muslim and God. This is quite distinct from the Judeo-Christian metaphor of God-as-Father which occurs in both Hebrew and Christian scripture.
+The middle of the sura—verses 41-65—contains accounts of prophets knowns from the [Torah](/torah.md). The first part \(vv. 41-50\) describes Abraham's relationship with his father. This, along with the polemic at the end against the Christian belief that Jesus is the literal son of God \(v. 89\) has been identified by Asma Barlas \(2002\) as "necessarily a conflict between monotheism and patriarchy \(in its traditional sense\)."[^1] In other words, the relationship between the child and the father is emphatically _not_ like the relationship between a Muslim and God. This is quite distinct from the Judeo-Christian metaphor of God-as-Father which occurs in both Hebrew and Christian scripture.
 
-Verses 56 and 57 refer to a prophet named Idris. Asad \(2003\)[^3] has this to say about this prophet:
+The second part \(vv. 51-65\) describes other prophets from the Torah. Verses 56 and 57 refer to a prophet named Idris. Asad \(2003\)[^3] has this to say about this prophet:
 
 > The majority of the classical commentators identify the Prophet Idris . . . with the Biblical Enoch \(Genesis v. 18-19 and 21-24\), withouth, however, being able to adduce any authority for this purely conjectural identification. Some modern Aur'an-commentators suggest that the name Idris may be the Arabacized form of Osiris . . . but this assumption is too far-fetched to deserve any serious consideration. Finally, some of the earliest Qur'an-commentators \[assert\] that "Idris" is but another name for Ilyas, the Biblical Elijah.
 
@@ -51,7 +51,43 @@ Towards the end of the section are the pearls that Neuwirth describes the "rewar
 
 ## Revelation Confirmation
 
+This last third of the sura is focused largely on confirming the revelation contained in the Qur'an. The fifth section includes this pearl:
 
+> 76: And Allah increases the guidance for those who have received guidance,  
+> And the righteous deeds that endure  
+> Are better in the sight of your Rabb,  
+> Worthy of recompense,  
+> And better for reaching your goal \(of Divine pleasure\).
+
+The sixth and final section ends with these jewels and pearls:
+
+> 93: There is nothing in the heavens and the earth  
+> That does not approach the All Compassionate  
+> Except as a votary \(and a servant\).
+>
+> 94: Truly, He has surrounded them,  
+> And has counted them, \(with precise\) counting.
+>
+> 95: And all of them  
+> Shall appear before Him  
+> On the Day of Judgment,  
+> Alone.
+
+> 96: Indeed, for those who have  certainty of faith,  
+> And engage in righteous deeds,  
+> For them, the All-Compassionate  
+> Will bring forth love \(on the Day of Judgment\).
+>
+> 97: It is for this reason that  
+> We have made it \(the Qur’an\) easy for you, in your own tongue,  
+> So that you give glad tidings to those who have certainty of faith,  
+> And warn with it a people who are belligerent.
+>
+> 98: And how many settlements \(civilizations\) have We destroyed before them?  
+> Do you \(now\) see any of them?  
+> Or, do you \(even\) hear their whisper?
+
+## References
 
 [^1]: Asma Barlas. "Believing Women" in Islam: Unreading Patriarchal Interpretations of the Quran \(Kindle Location 1484\). Kindle Edition.
 
