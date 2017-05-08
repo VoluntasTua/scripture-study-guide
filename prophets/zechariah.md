@@ -20,7 +20,11 @@ The majority First Zechariah, that is, chapters 1-8, consists of a series of eig
 
 Three months after his call, Zechariah has his first vision. It is unclear whether all of the visions happen in a single night \(as some suppose\) or whether they are spaced out over the following two years. It begins with the appearance of four horses. For many of us, this immediately brings to mind the four horsemen of the apocalypse described in the New Testament Revelation to John chapter 6. While the appearance of the four horsemen in John's Apocalypse may well be an allusion to the four horses found in Zechariah's first vision, they are not the same. John's horses are white, red, black, and pale and have symbolic meanings associated with them. The horses in Zechariah's vision share only three colors \(red is repeated\) and no symbolic interpretation is given. Tiemeyer \(2016\) describes three lines of thought regarding these colors: One is that they are insignificant. The words used to describe the horses should not be translated into primary colors but are rather natural "horse colors". Two, they are symbolic. Citing Delkurt, the notion here is that there is nothing superfluous in Zechariah's vision report and so they must mean something. Third is to leave it as an authentic visionary experience and arguably an unnatural one \(_i.e._ the color "red" is to be interpreted not as "chestnut", as some would have it, but actually red like blood\).[^2] It's worth nothing that the word translated here as "red" is used elsewhere "to describe blood \(2 Kgs. 3:22\), grape juice \(Isa 63:2\), lentil stew \(Gen. 25:30; cf. 25:34\), a cow \(Num. 19:2\), and human skin \(Song. 5:10\)."[^3] My own interpretation lies somewhere between these. Like the third interpretation, I think we should take these visions as authentic experiences. As such, they could contain symbolic value that may not even have been understood by the prophet himself. Whether the colors are meant to depict natural horse colors or not is probably impossible to discern in any definitive sense. If there is an interpretation that works for you, then that is an authentic interpretation. But it is probably foolhardy to attempt to find a single "correct" interpretation. And it is equally likely that Zechariah merely reported the colors of the horses as he saw them \(they had to be _some_ color\) and faithfully reported them though they have no meaning whatsoever.
 
-The number four, however, is most certainly symbolic. We see the number four over and over again with regard to the four cardinal directions and though this passage does not reference those directions _per se_, it seems likely that that is what is symbolized here by the number four as encompassing the whole Earth. 
+The number four, however, is most certainly symbolic. We see the number four over and over again with regard to the four cardinal directions and though this passage does not reference those directions _per se_, it seems likely that that is what is symbolized here by the number four as encompassing the whole Earth.
+
+### The Second Vision: Four Horns and Four Smiths
+
+
 
 ## References
 
@@ -29,8 +33,6 @@ Boda, Mark J. 2016.The Book Of Zechariah. 1st ed.
 Tiemeyer, Lena-Sofia. 2016.Zechariah's Vision Report And Its Earliest Interpreters. 1st ed. London: Bloomsbury T & T Clark.
 
 Tiemeyer, Lena-Sofia. 2016.Zechariah And His Visions. 1st ed. London: Bloomsbury T & T Clark.
-
-
 
 ![](/assets/Weigel_Four_horns_and_craftsmen.jpg)
 
