@@ -24,7 +24,7 @@ The number four, however, is most certainly symbolic. We see the number four ove
 
 ### The Second Vision: Four Horns and Four Smiths
 
-
+![](/assets/Weigel_Four_horns_and_craftsmen.jpg)
 
 ## References
 
@@ -34,7 +34,7 @@ Tiemeyer, Lena-Sofia. 2016.Zechariah's Vision Report And Its Earliest Interprete
 
 Tiemeyer, Lena-Sofia. 2016.Zechariah And His Visions. 1st ed. London: Bloomsbury T & T Clark.
 
-![](/assets/Weigel_Four_horns_and_craftsmen.jpg)
+
 
 ---
 
@@ -53,4 +53,3 @@ Tiemeyer, Lena-Sofia. 2016.Zechariah And His Visions. 1st ed. London: Bloomsbury
 [^2]: Tiemeyer, Lena-Sofia. 2016.Zechariah And His Visions. 1st ed. London: Bloomsbury T & T Clark.
 
 [^3]: Boda, Mark J. 2016.The Book Of Zechariah. 1st ed.
-
