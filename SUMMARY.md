@@ -8,8 +8,8 @@
   * [Amos - עמוס](prophets/amos.md)
   * [Jeremiah - ירמיהו](prophets/jeremiah-.md)
   * [Zechariah - זכריה](prophets/zechariah.md)
-* [Wisdom - כְּתוּבִים](wisdom-.md)
-  * [Job - אִיוֹב](wisdom-/job-.md)
+* [Wisdom - כְּתוּבִים](wisdom.md)
+  * [Job - אִיוֹב](wisdom/job.md)
   * Psalms - תהילים‎
   * Proverbs - מִשְלֵי
   * Ecclesiastes - קֹהֶלֶת
@@ -42,4 +42,3 @@
 * Daodejing - 道德經
 * उपनिषद्
 * धम्मपद
-
