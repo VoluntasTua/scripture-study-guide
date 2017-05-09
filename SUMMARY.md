@@ -19,7 +19,7 @@
     * [Week 1: Suras 1, 81-114](quran/mecca-week-1/README.md)
       * [Sura 1 الفاتحة](quran/mecca-week-1/sura-1.md)
       * [Sura 97 القدر](quran/mecca-week-1/sura-97.md)
-      * Sura 112 الإخلاص
+      * [Sura 112 الإخلاص](quran/mecca-week-1/sura-112.md)
     * [Week 2: Suras 53, 55, 56, 68](quran/mecca-week-2/README.md)
       * [Sura 53 النجم](quran/mecca-week-2/sura-53.md)
       * [Sura 55 الرحمن](quran/mecca-week-2/sura-55.md)
