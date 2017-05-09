@@ -1,7 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Torah - תּוֹרָה](torah.md)
+* [Torah - תּוֹרָה](torah/README.md)
+  * [Genesis - בְּרֵאשִׁית](torah/genesis.md)
 * [Prophets - נְבִיאִים‎](prophets/README.md)
   * [Elijah - אליהו](prophets/elijah.md)
   * [Amos - עמוס](prophets/amos.md)
@@ -41,4 +42,3 @@
 * Daodejing - 道德經
 * उपनिषद्
 * धम्मपद
-
