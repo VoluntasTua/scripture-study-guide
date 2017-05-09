@@ -34,6 +34,88 @@ Unlike the first vision, this second vision has no movement but instead consists
 
 ### The Third Vision: A Surveyor Measures Jerusalem
 
+This vision is remarkably complex given it's brevity. In only five verses, it tells of three or four persons, including the prophet. First a man appears with a measuring line. This itself is significant. When Zechariah asks where he is going, he says "to measure Jerusalem." The next verse refers to "the angel who talked with me". It is not clear if this is the man with the measuring line or if this is the explaining angel in the previous vision. Then another angel appears \(this being either the third or forth entity depending on how we interpret the previous verse\) who says to that angel, "say to that young man: Jerusalem shall be inhabited like villages without walls," and so on. It seems as though this second angel is speaking about Zechariah and he is merely witnessing this exchange. Tiemeyer takes verse 1:16 to be an interpretation of the measuring line in this third vision which, while confusing \(due to its ordering\) does make sense. 
+
+The final two verses seem to allude to a prophesy that Jerusalem with grow quickly.
+
+The rest of Chapter 2 consists of admonitions and promises. The poet David Rosenberg, in his book, _A Literary Bible_, translates it thus:
+
+> Sing like a skylark  
+> happy being home  
+> daughter of Zion
+>
+> because I am coming  
+> to join you  
+> with the sky you hoped for
+>
+> over you  
+> sky of your deepest dream  
+> infinite sky
+>
+> of reality  
+> you dared to see  
+> in the midst of a fogbound world
+>
+> I will be in the midst of you  
+> as true as your eyes  
+> see through a clear blue sky
+>
+> and I will be inside of you  
+> as you were open to me          light  
+> in a world suppressed in darkness
+>
+> leadenly earthbound  
+> giants in their mirror  
+> hearing only themselves
+>
+> and the gargoyles of their unconscious  
+> but light is the voice of your creator  
+> breaking through you
+>
+> in the midst of the world  
+> and many nations will see it  
+> dawn breaking on that day
+>
+> all will join me in the light  
+> of reality          warm  
+> beneath an infinite wing
+>
+> and you will know my breath is sent  
+> the man who is speaking to you  
+> by the Lord our creator
+>
+> who will breathe in Israel  
+> once again enfolding his daughter  
+> Zion in the holy land
+>
+> holding Jerusalem  
+> small reflection  
+> in the pupil of an eye
+>
+> beholding him again  
+> beneath an azure sky  
+> calm inside
+>
+> be quiet be still  
+> all people of flesh  
+> before the Lord
+>
+> a sky of promise is unfolding  
+> before us  
+> the horizon expands
+>
+> to include earth and sky  
+> and the small voice within  
+> will break out singing.
+
+### The Fourth Vision: Joshua and the Satan
+
+It's worth nothing that here \(as in the Qur'an\), "satan" is an improper noun, meaning accuser or adversary, as opposed to a proper noun, _i.e._ the name of the Devil or a synonym for Lucifer, as is commonly understood in English. Throughout the Hebrew Bible as well as in the Qur'an, we see depictions or allusions to a sort of divine courtroom. Often, as in this case, the satan takes the role of prosecuting attorney \(with the defendant frequently humanity itself\). The vision in chapter three is less formal than some other depictions but still carries this connotation. 
+
+Joshua is the high priest at the time. The appearance of a cult leader in a prophetic vision is likely to be significant no matter what, but at this time, historically, it is particularly significant. The Jews are still resettling Jerusalem and the temple is still being rebuilt. \(It won't be completed until 515 BCE, a few years after this vision most likely occurred.\) Since the destruction of the temple, the theology of the Jewish people has had to undergo a dramatic shift. Ezekiel's visions depict the presence of God literally leaving the temple before it is destroyed. Jeremiah described a new covenant with the _Torah_ written on the very hearts of the people thus obviating the need for a priesthood. Now that the Jews are resettling Jerusalem, the temple is being rebuilt, and the priesthood is resuming its former duties as intermediary between God and the people. The satan accuses Joshua of being unclean but the angel comes to his defense and clothes him in clean apparel. There are many ways one could interpret this. One might be: though the priesthood has been sullied, it still provides an essential function, so we must pick it up, clean it up, and return it to its rightful place, all the while not forgetting how it became sullied in the first place.
+
+### The Fifth Vision: A Menorah and Two Olive Trees
+
 ...
 
 ---
@@ -51,3 +133,4 @@ Unlike the first vision, this second vision has no movement but instead consists
 [^2]: Tiemeyer, Lena-Sofia. 2016.Zechariah And His Visions. 1st ed. London: Bloomsbury T & T Clark.
 
 [^3]: Boda, Mark J. 2016.The Book Of Zechariah. 1st ed.
+
