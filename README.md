@@ -34,13 +34,13 @@ This course is divided into 13 modules, each of which are intended to be taken o
 
 Six modules focus on the Abrahamic traditions: Judaism, Christianity, and Islam.
 
-#### Torah or **Pentateuch**
+#### [Torah or **Pentateuch**](/torah/README.md)
 
 #### [Nevi'im \(נְבִיאִים‎\) or Prophets](/prophets/README.md)
 
 #### Ketuvim or Writings
 
-#### Gospels
+#### New Testament
 
 #### [Qur'an \(القرآن‎‎\) - Meccan Suras](/quran/meccan-suras.md)
 
