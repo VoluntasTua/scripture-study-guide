@@ -4,11 +4,15 @@ Ayah \(ayat, _pl_.\) translates as "verse". It literally means "sign". A sura co
 
 ## Babylonian captivity
 
-In 605 BCE, Nebuchadnezzar, the king of Babylon, invaded the southern kingdom of Judah. The northern kingdom of Israel had already fallen some 117 years earlier. The first deportation occurred in 597 BCE followed by a second, ten years later, when the temple in Jerusalem was destroyed. This captivity lasted until 539 BCE when the Persian king, Cyrus, conquered Babylon and permitted Babylonian captives (including the Jews) to return to their native lands. Some say that it was only with the resettlement of Jerusalem by the Babylonian captives that the Jews as a people are first defined.
+In 605 BCE, Nebuchadnezzar, the king of Babylon, invaded the southern kingdom of Judah. The northern kingdom of Israel had already fallen some 117 years earlier. The first deportation occurred in 597 BCE followed by a second, ten years later, when the temple in Jerusalem was destroyed. This captivity lasted until 539 BCE when the Persian king, Cyrus, conquered Babylon and permitted Babylonian captives \(including the Jews\) to return to their native lands. Some say that it was only with the resettlement of Jerusalem by the Babylonian captives that the Jews as a people are first defined.
 
 ## Deutero-Isaiah
 
 The book of Isaiah \(located among the Prophets of the Hebrew Bible\) is divided into three parts. The first part \(chapters 1-39\) regard the original prophet Isaiah from around the turn of the 7th century B.C.E. The second part \(chapters 40-55\) concern a different anonymous prophet some generations later during the exilic period. Internal evidence attests to authorship separated in time though the text itself is undivided. The second \(anonymous\) prophet is traditionally referred to as "Deutero-Isaiah" or sometimes "2 Isaiah" to distinguish him or her from the original Isaiah. The last section \(chapters 56-66\), sometimes referred to as "Trito-Isaiah" is an anthology of short works.
+
+## Haggai
+
+One of the twelve minor prophets, along with Zechariah, he prophesied after the end of the Babylonian captivity, during the rebuilding of the temple of Jerusalem under Zerubbabel in the years leading up to 515 B.C.E.
 
 ## Hijra
 
@@ -33,3 +37,4 @@ Commonly referred to as the Hebrew Bible, the Tanakh contains three parts: the _
 ## Theodicy
 
 The vindication of divine goodness and providence in view of the existence of evil. This is a common theme among the prophets of the Abrahamic tradition from Jeremiah at the start of the Babylonian Exile \(6th Century B.C.E\) all the way through to Muhammad and the Hijra \(7th Century C.E.\) as well as among many Jewish, Christian, and Muslim theologians up through the present day.
+
