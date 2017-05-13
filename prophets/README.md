@@ -16,6 +16,12 @@ So if a prophet is not a fortune teller, and a prophet is not a doom sayer, what
 
 In Overholt's \(2003\) treatment of the topic, he compares the prophets of the Hebrew Bible with figures we might more commonly think of as shamans and the comparison is apt. In either case, we have an individual who stands as an intermediary between the social and spiritual realms of existence. What makes the Abrahamic prophetic tradition remarkable is in the way these prophets played a role in the political and religious history of these peoples.
 
+## On Translation
+
+For this and other modules on the Judeo-Christian Bible, I recommend the New Revised Standard Version \(NRSV\). On the whole, it respects the latest Biblical scholarship while also using language familiar to those who know the Bible primarily through Church. As always, however, for particularly difficult passages it may be helpful to consider other translations. 
+
+One thing that can be confusing, particularly with this module, is that the chapter and verse numbering can be different the Hebrew version. As an example, the second vision of [Zechariah](/prophets/zechariah.md) is at the end of chapter 1 in the English version, but at the beginning of chapter 2 in the Hebrew version. This doesn't effect the sequence of the text. \(The second vision sits between the first and third visions in either case.\) It is relatively rare, but worth being aware of, particularly when you see references to particular verses that may be numbered differently.
+
 ## References
 
 [^1]: Overholt, Thomas W. 2003.Channels Of Prophecy. 1st ed. Eugene, Or.: Wipf & Stock.
