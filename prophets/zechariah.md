@@ -34,7 +34,7 @@ Unlike the first vision, this second vision has no movement but instead consists
 
 ### The Third Vision: A Surveyor Measures Jerusalem
 
-This vision is remarkably complex given it's brevity. In only five verses, it tells of three or four persons, including the prophet. First a man appears with a measuring line. This itself is significant. When Zechariah asks where he is going, he says "to measure Jerusalem." The next verse refers to "the angel who talked with me". It is not clear if this is the man with the measuring line or if this is the explaining angel in the previous vision. Then another angel appears \(this being either the third or forth entity depending on how we interpret the previous verse\) who says to that angel, "say to that young man: Jerusalem shall be inhabited like villages without walls," and so on. It seems as though this second angel is speaking about Zechariah and he is merely witnessing this exchange. Tiemeyer takes verse 1:16 to be an interpretation of the measuring line in this third vision which, while confusing \(due to its ordering\) does make sense. 
+This vision is remarkably complex given it's brevity. In only five verses, it tells of three or four persons, including the prophet. First a man appears with a measuring line. This itself is significant. When Zechariah asks where he is going, he says "to measure Jerusalem." The next verse refers to "the angel who talked with me". It is not clear if this is the man with the measuring line or if this is the explaining angel in the previous vision. Then another angel appears \(this being either the third or forth entity depending on how we interpret the previous verse\) who says to that angel, "say to that young man: Jerusalem shall be inhabited like villages without walls," and so on. It seems as though this second angel is speaking about Zechariah and he is merely witnessing this exchange. Tiemeyer takes verse 1:16 to be an interpretation of the measuring line in this third vision which, while confusing \(due to its ordering\) does make sense.
 
 The final two verses seem to allude to a prophesy that Jerusalem with grow quickly.
 
@@ -110,13 +110,21 @@ The rest of Chapter 2 consists of admonitions and promises. The poet David Rosen
 
 ### The Fourth Vision: Joshua and the Satan
 
-It's worth nothing that here \(as in the Qur'an\), "satan" is an improper noun, meaning accuser or adversary, as opposed to a proper noun, _i.e._ the name of the Devil or a synonym for Lucifer, as is commonly understood in English. Throughout the Hebrew Bible as well as in the Qur'an, we see depictions or allusions to a sort of divine courtroom. Often, as in this case, the satan takes the role of prosecuting attorney \(with the defendant frequently humanity itself\). The vision in chapter three is less formal than some other depictions but still carries this connotation. 
+It's worth nothing that here \(as in the Qur'an\), "satan" is an improper noun, meaning accuser or adversary, as opposed to a proper noun, _i.e._ the name of the Devil or a synonym for Lucifer, as is commonly understood in English. Throughout the Hebrew Bible as well as in the Qur'an, we see depictions or allusions to a sort of divine courtroom. Often, as in this case, the satan takes the role of prosecuting attorney \(with the defendant frequently humanity itself\). The vision in chapter three is less formal than some other depictions but still carries this connotation.
 
 Joshua is the high priest at the time. The appearance of a cult leader in a prophetic vision is likely to be significant no matter what, but at this time, historically, it is particularly significant. The Jews are still resettling Jerusalem and the temple is still being rebuilt. \(It won't be completed until 515 BCE, a few years after this vision most likely occurred.\) Since the destruction of the temple, the theology of the Jewish people has had to undergo a dramatic shift. Ezekiel's visions depict the presence of God literally leaving the temple before it is destroyed. Jeremiah described a new covenant with the _Torah_ written on the very hearts of the people thus obviating the need for a priesthood. Now that the Jews are resettling Jerusalem, the temple is being rebuilt, and the priesthood is resuming its former duties as intermediary between God and the people. The satan accuses Joshua of being unclean but the angel comes to his defense and clothes him in clean apparel. There are many ways one could interpret this. One might be: though the priesthood has been sullied, it still provides an essential function, so we must pick it up, clean it up, and return it to its rightful place, all the while not forgetting how it became sullied in the first place.
 
 ### The Fifth Vision: A Menorah and Two Olive Trees
 
-...
+Whereas chapter 3 concerned the priest, Joshua, chapter 4 concerns the governor Zerubbabel. As with other prophecies, it describes how a political figure acts as an agent of God. 
+
+One of the most ambiguous parts of this vision comes at the end \(4:10b-14\). Here is Petterson's \(2009\) translation:
+
+> These seven are the eyes of Yahweh that roam through the whole earth. I answered and said to him, "What are these two olive trees on the right of the menorah and on its left?" A second time I answered and said to him, "What are these two streams of the olive trees, which through two golden pipes are pouring out from them the gold\[en oil\]?" He said to me, "Do you not know what these are?" I said, "No, my Lord." He said, "These are the two sons of oil who stand by the Lord of the whole earth."[^4]
+
+One thing you may notice if you compare this to many other translations of בְנֵֽי־ הַיִּצְהָ֑ר, you'll notice that it is frequently translated as "anointed ones". Peterson echoes Rose \(2000\) in saying this translation is flawed.[^5] Rather they argue that what is meant by בְנֵֽי־ הַיִּצְהָ֑ר, or, literally, "sons of oil", is that they \(like the two olive trees in the vision\) are _sources_ of "oil", rather than recipients of it.
+
+The next question is: who are these sons of oil? Three possibilities are given: Joshua and Zerubbabel, Zechariah and Haggai
 
 ---
 
@@ -130,7 +138,11 @@ Joshua is the high priest at the time. The appearance of a cult leader in a prop
 
 [^1]: In the case of Isaiah, chapters 40-55 are attributed to a single anonymous prophet, called Deutero-Isaiah, contemporary with the fall of Babylon in 539 BCE.
 
-[^2]: Tiemeyer, Lena-Sofia. 2016.Zechariah And His Visions. 1st ed. London: Bloomsbury T & T Clark.
+[^2]: Tiemeyer, Lena-Sofia. 2016._Zechariah And His Visions_. 1st ed. London: Bloomsbury T & T Clark.
 
-[^3]: Boda, Mark J. 2016.The Book Of Zechariah. 1st ed.
+[^3]: Boda, Mark J. 2016._The Book Of Zechariah_. 1st ed.
+
+[^4]: Petterson, Anthony R. 2009._Behold Your King: The Hope For The House Of David In The Book Of Zechariah \(T & T Clark Library Of Biblical Studies\)_. 1st ed. T & T Clark Limited.
+
+[^5]: Rose, Wolter H. 2000._Zemah And Zerubbabel: Messianic Expectations In The Early Postexilic Period \(Journal For The Study Of The Old Testament. Supplement Series ; 304\)_. 1st ed. Sheffield Academic Press.
 
