@@ -22,7 +22,7 @@ The majority First Zechariah, that is, chapters 1-8, consists of a series of eig
 
 ### The First Vision: Divine Horses Patrol the Earth
 
-Three months after his call, Zechariah has his first vision. It is unclear whether all of the visions happen in a single night \(as some suppose\) or whether they are spaced out over the following two years. It begins with the appearance of four horses. For many of us, this immediately brings to mind the four horsemen of the apocalypse described in the New Testament Revelation to John chapter 6. While the appearance of the four horsemen in John's Apocalypse may well be an allusion to the four horses found in Zechariah's first vision, they are not the same. John's horses are white, red, black, and pale and have symbolic meanings associated with them. The horses in Zechariah's vision share only three colors \(red is repeated\) and no symbolic interpretation is given. Tiemeyer \(2016\) describes three lines of thought regarding these colors: One is that they are insignificant. The words used to describe the horses should not be translated into primary colors but are rather natural "horse colors". Two, they are symbolic. Citing Delkurt, the notion here is that there is nothing superfluous in Zechariah's vision report and so they must mean something. Third is to leave it as an authentic visionary experience and arguably an unnatural one \(_i.e._ the color "red" is to be interpreted not as "chestnut", as some would have it, but actually red like blood\).[^2] It's worth nothing that the word translated here as "red" is used elsewhere "to describe blood \(2 Kgs. 3:22\), grape juice \(Isa 63:2\), lentil stew \(Gen. 25:30; cf. 25:34\), a cow \(Num. 19:2\), and human skin \(Song. 5:10\)."[^3] My own interpretation lies somewhere between these. Like the third interpretation, I think we should take these visions as authentic experiences. As such, they could contain symbolic value that may not even have been understood by the prophet himself. Whether the colors are meant to depict natural horse colors or not is probably impossible to discern in any definitive sense. If there is an interpretation that works for you, then that is an authentic interpretation. But it is probably foolhardy to attempt to find a single "correct" interpretation. And it is equally likely that Zechariah merely reported the colors of the horses as he saw them \(they had to be _some_ color\) and faithfully reported them though they have no meaning whatsoever.
+Three months after his call, Zechariah has his first vision. It is unclear whether all of the visions happen in a single night \(as some suppose\) or whether they are spaced out over the following two years. It begins with the appearance of four horses. For many of us, this immediately brings to mind the four horsemen of the apocalypse described in the New Testament Revelation to John chapter 6. While the appearance of the four horsemen in John's Apocalypse may well be an allusion to the four horses found in Zechariah's first vision, they are not the same. John's horses are white, red, black, and pale and have symbolic meanings associated with them. The horses in Zechariah's vision share only three colors \(red is repeated\) and no symbolic interpretation is given. Tiemeyer \(2016a\) describes three lines of thought regarding these colors: One is that they are insignificant. The words used to describe the horses should not be translated into primary colors but are rather natural "horse colors". Two, they are symbolic. Citing Delkurt, the notion here is that there is nothing superfluous in Zechariah's vision report and so they must mean something. Third is to leave it as an authentic visionary experience and arguably an unnatural one \(_i.e._ the color "red" is to be interpreted not as "chestnut", as some would have it, but actually red like blood\).[^2] It's worth nothing that the word translated here as "red" is used elsewhere "to describe blood \(2 Kgs. 3:22\), grape juice \(Isa 63:2\), lentil stew \(Gen. 25:30; cf. 25:34\), a cow \(Num. 19:2\), and human skin \(Song. 5:10\)."[^3] My own interpretation lies somewhere between these. Like the third interpretation, I think we should take these visions as authentic experiences. As such, they could contain symbolic value that may not even have been understood by the prophet himself. Whether the colors are meant to depict natural horse colors or not is probably impossible to discern in any definitive sense. If there is an interpretation that works for you, then that is an authentic interpretation. But it is probably foolhardy to attempt to find a single "correct" interpretation. And it is equally likely that Zechariah merely reported the colors of the horses as he saw them \(they had to be _some_ color\) and faithfully reported them though they have no meaning whatsoever.
 
 The number four, however, is most certainly symbolic. We see the number four over and over again with regard to the four cardinal directions and though this passage does not reference those directions _per se_, it seems likely that that is what is symbolized here by the number four as encompassing the whole Earth.
 
@@ -132,17 +132,25 @@ Chapter five contains the sixth and seventh visions in the sequence. Though they
 
 The first vision consists of a flying scroll. The footnote to this vision in the New Oxford Annotated Bible observes this scroll is "long, almost 30 ft \(9 m\). This scroll has a proportion of 2:1, more like a carpet than a document; the [Qumran Isaiah scroll](http://dss.collections.imj.org.il/isaiah) is about 24 ft \(7.3 m\) long and 11 in \(30 cm\) wide, a proportion of 24:1.3."[^6] It is also worth noting that this scroll, like the one in Ezekiel 2:10, has writing on both sides. This would have been unusual.
 
-![](/assets/Seleznikha_church_-_prophet_Zechariah_%2818_c.%29.jpg) | ![](/assets/Weigel_Four_horns_and_craftsmen.jpg)
+![](/assets/Seleznikha_church_-_prophet_Zechariah_%2818_c.%29.jpg)
 
-The two sides refer to two of the ten commandments given in [Exodus](/torah/exodus.md) 20. The implication would seem to be that these two commandments \(at least\) are now to be understood as applying universally, unlike the 613 commandments that apply to the Jewish people _per se_. 
+The two sides refer to two of the ten commandments given in [Exodus](/torah/exodus.md) 20. The implication would seem to be that these two commandments \(at least\) are now to be understood as applying universally, unlike the 613 commandments that apply to the Jewish people _per se_.
 
 ## The Seventh Vision: A Woman in a Basket
 
+The transition to the seventh vision is strangely abrupt. "Then the angel who talked with me came forward" implies that the angel had been away for a time. Both of the visions in chapter five involve flying objects \(scroll and basket\) as a means of purging "undesirable elements \(thieves, perjurers, and idolatry\)".[^7]
+
 It is worth noting that the "basket", or אֵיפָ֔ה, in this vision could not possibly hold a human being. The impossibility of this image might be why Zechariah was unable to describe it himself but required the explaining angel to do so.
+
+## The Eighth Vision: Four Chariots
+
+Zechariah's last vision, like his first, centers on the appearance of horses. However, this time, the vision is greatly evolved. The horses now draw chariots. One may interpret from this—if one adopts a military metaphor—a shift from reconnaissance to a more aggressive and interventionist stance.
+
+![](/assets/Gustave_Doré_%281832-1883%29_-_The_Bible_%281865%29_-_Zechariah_6-5.jpg)
 
 ---
 
-| ![](/assets/Seleznikha_church_-_prophet_Zechariah_%2818_c.%29.jpg) | ![](/assets/Weigel_Four_horns_and_craftsmen.jpg) |
+|  |  |
 | :--- | :--- |
 | Seleznikha church - prophet Zechariah \(18 c.\) | A rendering of Zechariah’s vision of the four horns and four craftsmen, symbolizing the scattering of the nations, from Christoph, Weigel |
 
@@ -158,13 +166,13 @@ Petterson, Anthony R. 2009.Behold Your King: The Hope For The House Of David In 
 
 Rose, Wolter H. 2000.Zemah And Zerubbabel: Messianic Expectations In The Early Postexilic Period \(Journal For The Study Of The Old Testament. Supplement Series ; 304\). 1st ed. Sheffield Academic Press.
 
-Tiemeyer, Lena-Sofia. 2016.Zechariah's Vision Report And Its Earliest Interpreters. 1st ed. London: Bloomsbury T & T Clark.
+Tiemeyer, Lena-Sofia. 2016b. Zechariah's Vision Report And Its Earliest Interpreters. 1st ed. London: Bloomsbury T & T Clark.
 
-Tiemeyer, Lena-Sofia. 2016.Zechariah And His Visions. 1st ed. London: Bloomsbury T & T Clark.
+Tiemeyer, Lena-Sofia. 2016a. Zechariah And His Visions. 1st ed. London: Bloomsbury T & T Clark.
 
 [^1]: In the case of Isaiah, chapters 40-55 are attributed to a single anonymous prophet, called Deutero-Isaiah, contemporary with the fall of Babylon in 539 BCE.
 
-[^2]: Tiemeyer, Lena-Sofia. 2016._Zechariah And His Visions_. 1st ed. London: Bloomsbury T & T Clark.
+[^2]: Tiemeyer, Lena-Sofia. 2016a. _Zechariah And His Visions_. 1st ed. London: Bloomsbury T & T Clark.
 
 [^3]: Boda, Mark J. 2016._The Book Of Zechariah_. 1st ed.
 
@@ -173,4 +181,6 @@ Tiemeyer, Lena-Sofia. 2016.Zechariah And His Visions. 1st ed. London: Bloomsbury
 [^5]: Rose, Wolter H. 2000._Zemah And Zerubbabel: Messianic Expectations In The Early Postexilic Period \(Journal For The Study Of The Old Testament. Supplement Series ; 304\)_. 1st ed. Sheffield Academic Press.
 
 [^6]: Coogan, Michael David, Marc Zvi Brettler, Carol A Newsom, and Pheme Perkins. 2010._The New Oxford Annotated Bible._ 4th ed. New York: Oxford University Press.
+
+[^7]: Tiemeyer, Lena-Sofia. 2016b. _Zechariah's Vision Report And Its Earliest Interpreters_. 1st ed. London: Bloomsbury T & T Clark.
 
