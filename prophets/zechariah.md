@@ -116,7 +116,7 @@ Joshua is the high priest at the time. The appearance of a cult leader in a prop
 
 ### The Fifth Vision: A Menorah and Two Olive Trees
 
-Whereas chapter 3 concerned the priest, Joshua, chapter 4 concerns the governor Zerubbabel. As with other prophecies, it describes how a political figure acts as an agent of God. 
+Whereas chapter 3 concerned the priest, Joshua, chapter 4 concerns the governor Zerubbabel. As with other prophecies, it describes how a political figure acts as an agent of God.
 
 One of the most ambiguous parts of this vision comes at the end \(4:10b-14\). Here is Petterson's \(2009\) translation:
 
@@ -124,7 +124,21 @@ One of the most ambiguous parts of this vision comes at the end \(4:10b-14\). He
 
 One thing you may notice if you compare this to many other translations of בְנֵֽי־ הַיִּצְהָ֑ר, you'll notice that it is frequently translated as "anointed ones". Peterson echoes Rose \(2000\) in saying this translation is flawed.[^5] Rather they argue that what is meant by בְנֵֽי־ הַיִּצְהָ֑ר, or, literally, "sons of oil", is that they \(like the two olive trees in the vision\) are _sources_ of "oil", rather than recipients of it.
 
-The next question is: who are these sons of oil? Three possibilities are given: Joshua and Zerubbabel, Zechariah and Haggai
+The next question is: who are these sons of oil? Three possibilities are given: Joshua and Zerubbabel, Zechariah and Haggai, or two heavenly beings, unnamed. Each of these interpretations carry its own connotations and each has its own arguments for and against. I leave it to you to find an interpretation that works for you, understanding that your interpretation is but one of many possible.
+
+## The Sixth Vision: A Flying Scroll
+
+Chapter five contains the sixth and seventh visions in the sequence. Though they are distinct, they are considered more related to one another and are often interpreted together.
+
+The first vision consists of a flying scroll. The footnote to this vision in the New Oxford Annotated Bible observes this scroll is "long, almost 30 ft \(9 m\). This scroll has a proportion of 2:1, more like a carpet than a document; the [Qumran Isaiah scroll](http://dss.collections.imj.org.il/isaiah) is about 24 ft \(7.3 m\) long and 11 in \(30 cm\) wide, a proportion of 24:1.3."[^6] It is also worth noting that this scroll, like the one in Ezekiel 2:10, has writing on both sides. This would have been unusual.
+
+![](/assets/Seleznikha_church_-_prophet_Zechariah_%2818_c.%29.jpg) | ![](/assets/Weigel_Four_horns_and_craftsmen.jpg)
+
+The two sides refer to two of the ten commandments given in [Exodus](/torah/exodus.md) 20. The implication would seem to be that these two commandments \(at least\) are now to be understood as applying universally, unlike the 613 commandments that apply to the Jewish people _per se_. 
+
+## The Seventh Vision: A Woman in a Basket
+
+It is worth noting that the "basket", or אֵיפָ֔ה, in this vision could not possibly hold a human being. The impossibility of this image might be why Zechariah was unable to describe it himself but required the explaining angel to do so.
 
 ---
 
@@ -136,6 +150,18 @@ The next question is: who are these sons of oil? Three possibilities are given: 
 
 ## References
 
+Boda, Mark J. 2016.The Book Of Zechariah. 1st ed.
+
+Coogan, Michael David, Marc Zvi Brettler, Carol A Newsom, and Pheme Perkins. 2010.The New Oxford Annotated Bible. 1st ed. New York: Oxford University Press.
+
+Petterson, Anthony R. 2009.Behold Your King: The Hope For The House Of David In The Book Of Zechariah \(T & T Clark Library Of Biblical Studies\). 1st ed. T & T Clark Limited.
+
+Rose, Wolter H. 2000.Zemah And Zerubbabel: Messianic Expectations In The Early Postexilic Period \(Journal For The Study Of The Old Testament. Supplement Series ; 304\). 1st ed. Sheffield Academic Press.
+
+Tiemeyer, Lena-Sofia. 2016.Zechariah's Vision Report And Its Earliest Interpreters. 1st ed. London: Bloomsbury T & T Clark.
+
+Tiemeyer, Lena-Sofia. 2016.Zechariah And His Visions. 1st ed. London: Bloomsbury T & T Clark.
+
 [^1]: In the case of Isaiah, chapters 40-55 are attributed to a single anonymous prophet, called Deutero-Isaiah, contemporary with the fall of Babylon in 539 BCE.
 
 [^2]: Tiemeyer, Lena-Sofia. 2016._Zechariah And His Visions_. 1st ed. London: Bloomsbury T & T Clark.
@@ -145,4 +171,6 @@ The next question is: who are these sons of oil? Three possibilities are given: 
 [^4]: Petterson, Anthony R. 2009._Behold Your King: The Hope For The House Of David In The Book Of Zechariah \(T & T Clark Library Of Biblical Studies\)_. 1st ed. T & T Clark Limited.
 
 [^5]: Rose, Wolter H. 2000._Zemah And Zerubbabel: Messianic Expectations In The Early Postexilic Period \(Journal For The Study Of The Old Testament. Supplement Series ; 304\)_. 1st ed. Sheffield Academic Press.
+
+[^6]: Coogan, Michael David, Marc Zvi Brettler, Carol A Newsom, and Pheme Perkins. 2010._The New Oxford Annotated Bible._ 4th ed. New York: Oxford University Press.
 
