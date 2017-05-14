@@ -206,12 +206,6 @@ Prophetic literature is a genre to itself. It is both extremely timely \(notice 
 
 ---
 
-|  |  |
-| :--- | :--- |
-| Seleznikha church - prophet Zechariah \(18 c.\) | A rendering of Zechariah’s vision of the four horns and four craftsmen, symbolizing the scattering of the nations, from Christoph, Weige |
-
----
-
 ## References
 
 [^1]: In the case of Isaiah, chapters 40-55 are attributed to a single anonymous prophet, called Deutero-Isaiah, contemporary with the fall of Babylon in 539 BCE.
