@@ -22,7 +22,7 @@ The majority First Zechariah, that is, chapters 1-8, consists of a series of eig
 
 ### The First Vision: Divine Horses Patrol the Earth
 
-Three months after his call, Zechariah has his first vision. It is unclear whether all of the visions happen in a single night \(as some suppose\) or whether they are spaced out over the following two years. It begins with the appearance of four horses. For many of us, this immediately brings to mind the four horsemen of the apocalypse described in the New Testament Revelation to John chapter 6. While the appearance of the four horsemen in John's Apocalypse may well be an allusion to the four horses found in Zechariah's first vision, they are not the same. John's horses are white, red, black, and pale and have symbolic meanings associated with them. The horses in Zechariah's vision share only three colors \(red is repeated\) and no symbolic interpretation is given. Tiemeyer \(2016a\) describes three lines of thought regarding these colors: One is that they are insignificant. The words used to describe the horses should not be translated into primary colors but are rather natural "horse colors". Two, they are symbolic. Citing Delkurt, the notion here is that there is nothing superfluous in Zechariah's vision report and so they must mean something. Third is to leave it as an authentic visionary experience and arguably an unnatural one \(_i.e._ the color "red" is to be interpreted not as "chestnut", as some would have it, but actually red like blood\).[^2] It's worth nothing that the word translated here as "red" is used elsewhere "to describe blood \(2 Kgs. 3:22\), grape juice \(Isa 63:2\), lentil stew \(Gen. 25:30; cf. 25:34\), a cow \(Num. 19:2\), and human skin \(Song. 5:10\)."[^3] My own interpretation lies somewhere between these. Like the third interpretation, I think we should take these visions as authentic experiences. As such, they could contain symbolic value that may not even have been understood by the prophet himself. Whether the colors are meant to depict natural horse colors or not is probably impossible to discern in any definitive sense. If there is an interpretation that works for you, then that is an authentic interpretation. But it is probably foolhardy to attempt to find a single "correct" interpretation. And it is equally likely that Zechariah merely reported the colors of the horses as he saw them \(they had to be _some_ color\) and faithfully reported them though they have no meaning whatsoever.
+Three months after his call, Zechariah has his first vision. It is unclear whether all of the visions happen in a single night \(as some suppose\) or whether they are spaced out over the following two years. It begins with the appearance of four horses. For many of us, this immediately brings to mind the four horsemen of the apocalypse described in the New Testament Revelation to John chapter 6. While the appearance of the four horsemen in John's Apocalypse may well be an allusion to the four horses found in Zechariah's first vision, they are not the same. John's horses are white, red, black, and pale and have symbolic meanings associated with them. The horses in Zechariah's vision share only three colors \(red is repeated\) and no symbolic interpretation is given. Tiemeyer \(2016a\) describes three lines of thought regarding these colors: One is that they are insignificant. The words used to describe the horses should not be translated into primary colors but are rather natural "horse colors". Two, they are symbolic. Citing Delkurt, the notion here is that there is nothing superfluous in Zechariah's vision report and so they must mean something. Third is to leave it as an authentic visionary experience and arguably an unnatural one \(_i.e._ the color "red" \(אָדֹ֔ם\) is to be interpreted not as "chestnut", as some would have it, but actually red like blood\).[^2] It's worth nothing that the word translated here as "red" is used elsewhere "to describe blood \(2 Kgs. 3:22\), grape juice \(Isa 63:2\), lentil stew \(Gen. 25:30; cf. 25:34\), a cow \(Num. 19:2\), and human skin \(Song. 5:10\)."[^3] My own interpretation lies somewhere between these. Like the third interpretation, I think we should take these visions as authentic experiences. As such, they could contain symbolic value that may not even have been understood by the prophet himself. Whether the colors are meant to depict natural horse colors or not is probably impossible to discern in any definitive sense. If there is an interpretation that works for you, then that is an authentic interpretation. But it is probably foolhardy to attempt to find a single "correct" interpretation. And it is equally likely that Zechariah merely reported the colors of the horses as he saw them \(they had to be _some_ color\) and faithfully reported them though they have no meaning whatsoever.
 
 The number four, however, is most certainly symbolic. We see the number four over and over again with regard to the four cardinal directions and though this passage does not reference those directions _per se_, it seems likely that that is what is symbolized here by the number four as encompassing the whole Earth.
 
@@ -126,7 +126,7 @@ One thing you may notice if you compare this to many other translations of בְ�
 
 The next question is: who are these sons of oil? Three possibilities are given: Joshua and Zerubbabel, Zechariah and Haggai, or two heavenly beings, unnamed. Each of these interpretations carry its own connotations and each has its own arguments for and against. I leave it to you to find an interpretation that works for you, understanding that your interpretation is but one of many possible.
 
-## The Sixth Vision: A Flying Scroll
+### The Sixth Vision: A Flying Scroll
 
 Chapter five contains the sixth and seventh visions in the sequence. Though they are distinct, they are considered more related to one another and are often interpreted together.
 
@@ -136,39 +136,83 @@ The first vision consists of a flying scroll. The footnote to this vision in the
 
 The two sides refer to two of the ten commandments given in [Exodus](/torah/exodus.md) 20. The implication would seem to be that these two commandments \(at least\) are now to be understood as applying universally, unlike the 613 commandments that apply to the Jewish people _per se_.
 
-## The Seventh Vision: A Woman in a Basket
+### The Seventh Vision: A Woman in a Basket
 
 The transition to the seventh vision is strangely abrupt. "Then the angel who talked with me came forward" implies that the angel had been away for a time. Both of the visions in chapter five involve flying objects \(scroll and basket\) as a means of purging "undesirable elements \(thieves, perjurers, and idolatry\)".[^7]
 
 It is worth noting that the "basket", or אֵיפָ֔ה, in this vision could not possibly hold a human being. The impossibility of this image might be why Zechariah was unable to describe it himself but required the explaining angel to do so.
 
-## The Eighth Vision: Four Chariots
-
-Zechariah's last vision, like his first, centers on the appearance of horses. However, this time, the vision is greatly evolved. The horses now draw chariots. One may interpret from this—if one adopts a military metaphor—a shift from reconnaissance to a more aggressive and interventionist stance.
+### The Eighth Vision: Four Chariots
 
 ![](/assets/Gustave_Doré_%281832-1883%29_-_The_Bible_%281865%29_-_Zechariah_6-5.jpg)
+
+Zechariah's last vision, like his first, centers on the appearance of horses. However, this time, the vision is greatly evolved. The horses now draw chariots. One may interpret from this—if one adopts a military metaphor—a shift from reconnaissance to a more aggressive and interventionist stance. This vision also has a far more apocalyptic flavor to it. In the first vision, we compared the horses to those found in the Revelation to John. In this vision, the parallels are a lot clearer. For one thing, the colors of the horses have changed. Before there were three colors for four horses. This time, there are four colors and they are assigned to all the horses for each chariot respectively, suggesting something far less random. Also, though the colors are not interpreted in this case, they come closer to the colors in Revelation. It is difficult to interpret color words across language and centuries. We saw the ambiguity of the color אָדֹ֔ם \(frequently translated as "red"\) for instance. So it is difficult to know if אָדֹ֔ם in this context is equivalent to πυρρός in the Revelation of John written some 600 years later. But it is interesting that three of the four colors do seem equivalent.
+
+אָדֹ֔ם = red = πυρρός  
+לְבָנִ֑ים = white = λευκός  
+שְׁחֹרִֽים = black = μέλας
+
+The last seems ambiguous. אֲמֻצִּֽים בְּרֻדִּ֖ים is translated as "strong spotted" or "dappled gray" while χλωρός is translated as "pale" or "green". Should the incomplete symmetry bar us from regarding John's horses as the same as Zechariah's? To make matters worse, in the second account of the four sets of horses, \(Zech 6:6-7\) the "red" horses are dropped and "strong" and "spotted" appear as two different sets. It strikes me that since the chariots are given different assignments based on the color of their horses, the color is significant \(unlike in 1:8 where it seemed comparatively more arbitrary\).
+
+## Interpretations and Oracles
+
+### Interpretation of Zechariah's Eighth Vision: Wealth and Coronation
+
+As with the third vision in chapter 2, the eighth vision in chapter 6 includes an appendix. What is surprising about this passage is that it instructs Zechariah to crown Joshua, the high priest, and not Zerubbabel, the governor and arguably the rightful king. Some \(Peterson, 2009\) have suggested that this passage originally referred to Zerubbabel but that since he failed to restore the monarchy, the name was subsequently changed to Joshua by later editors. Attempting to reconstruct the "original" text in this fashion seems dangerous to say the least, but this interpretation would seem quite logical under the circumstances.
+
+As stated above, it is unknown whether these eight visions occurred in a single night \(as some suppose\) or whether they were spaced out over the course of two years. My own opinion is that the latter makes more sense, as the visions seem to reflect a developing story in the life of the people resettling Jerusalem. The sixth and seventh vision seem to go together. Likewise, the fourth and fifth vision make a handy pair as they regard two of Zechariah's contemporaries.
+
+### Historical Reprise
+
+Chapter 7 brings the attention back to historical matters, much like the opening of chapter 1 did. It is now two years after Zechariah's initial call. This chapter concludes with an oracle that could be taken as a summary of the message of all of the Hebrew Prophets or even the Hebrew Bible as a whole:
+
+> Thus says the Lord of hosts: Render true judgments, show kindness and mercy to one another;  
+> do not oppress the widow, the orphan, the alien, or the poor; and do not devise evil in your hearts against one another.  
+> But they refused to listen, and turned a stubborn shoulder, and stopped their ears in order not to hear.  
+> They made their hearts adamant in order not to hear the law and the words that the Lord of hosts had sent by his spirit through the former prophets. Therefore great wrath came from the Lord of hosts.  
+> Just as, when I called, they would not hear, so, when they called, I would not hear, says the Lord of hosts,  
+> and I scattered them with a whirlwind among all the nations that they had not known. Thus the land they left was desolate, so that no one went to and fro, and a pleasant land was made desolate.
+
+### Ten Oracles of Restoration
+
+First Zechariah concludes with ten oracles of the new Jerusalem that is to be built. This is reminiscent of the visions of pre-exilic prophets who predicted the destruction of Judah but also envisioned its restoration such as in Isaiah 2 and Micah 4:
+
+> In days to come  
+>     the mountain of the Lord’s house  
+> shall be established as the highest of the mountains,  
+>     and shall be raised above the hills;  
+> all the nations shall stream to it.
+>
+> Many peoples shall come and say,  
+> “Come, let us go up to the mountain of the Lord,  
+>     to the house of the God of Jacob;  
+> that he may teach us his ways  
+>     and that we may walk in his paths.”  
+> For out of Zion shall go forth instruction,  
+>     and the word of the Lord from Jerusalem.
+>
+> He shall judge between the nations,  
+>     and shall arbitrate for many peoples;  
+> they shall beat their swords into plowshares,  
+>     and their spears into pruning hooks;  
+> nation shall not lift up sword against nation,  
+>     neither shall they learn war any more.
+
+While Isaiah and Micah and Zechariah and others most likely took this revelation in a most literal sense, it continues to be valuable to us today, not so much as a plan for the physical city of Jerusalem in the Middle East but as a hope for a future world. Walter Brueggemann \(1988\) believes that this sort of "prophetic imagination" is precisely what we need and that, indeed, it is helpful to think of ourselves as being in exile from this state of being. He writes, "the problem of our time is not atheism but idolatry."[^8] And indeed, if we look at what God requires of us in the previous chapter, to "render true judgments, show kindness and mercy to one another, do not oppress the widow, the orphan, the alien, or the poor, and do not devise evil in your hearts against one another," are these words any less relevant today than they were 2500 years ago?
+
+## Conclusion
+
+Prophetic literature is a genre to itself. It is both extremely timely \(notice the historical references throughout\) and timeless \(the problems the prophets address are no less relevant today than they were 2500-3000 years ago. This form of revelation plays a central role in all three of the Abrahamic religions, from Judaism to Christianity to Islam. 
 
 ---
 
 |  |  |
 | :--- | :--- |
-| Seleznikha church - prophet Zechariah \(18 c.\) | A rendering of Zechariah’s vision of the four horns and four craftsmen, symbolizing the scattering of the nations, from Christoph, Weigel |
+| Seleznikha church - prophet Zechariah \(18 c.\) | A rendering of Zechariah’s vision of the four horns and four craftsmen, symbolizing the scattering of the nations, from Christoph, Weige |
 
 ---
 
 ## References
-
-Boda, Mark J. 2016.The Book Of Zechariah. 1st ed.
-
-Coogan, Michael David, Marc Zvi Brettler, Carol A Newsom, and Pheme Perkins. 2010.The New Oxford Annotated Bible. 1st ed. New York: Oxford University Press.
-
-Petterson, Anthony R. 2009.Behold Your King: The Hope For The House Of David In The Book Of Zechariah \(T & T Clark Library Of Biblical Studies\). 1st ed. T & T Clark Limited.
-
-Rose, Wolter H. 2000.Zemah And Zerubbabel: Messianic Expectations In The Early Postexilic Period \(Journal For The Study Of The Old Testament. Supplement Series ; 304\). 1st ed. Sheffield Academic Press.
-
-Tiemeyer, Lena-Sofia. 2016b. Zechariah's Vision Report And Its Earliest Interpreters. 1st ed. London: Bloomsbury T & T Clark.
-
-Tiemeyer, Lena-Sofia. 2016a. Zechariah And His Visions. 1st ed. London: Bloomsbury T & T Clark.
 
 [^1]: In the case of Isaiah, chapters 40-55 are attributed to a single anonymous prophet, called Deutero-Isaiah, contemporary with the fall of Babylon in 539 BCE.
 
@@ -183,4 +227,6 @@ Tiemeyer, Lena-Sofia. 2016a. Zechariah And His Visions. 1st ed. London: Bloomsbu
 [^6]: Coogan, Michael David, Marc Zvi Brettler, Carol A Newsom, and Pheme Perkins. 2010._The New Oxford Annotated Bible._ 4th ed. New York: Oxford University Press.
 
 [^7]: Tiemeyer, Lena-Sofia. 2016b. _Zechariah's Vision Report And Its Earliest Interpreters_. 1st ed. London: Bloomsbury T & T Clark.
+
+[^8]: Brueggemann, Walter. 1988. _Hopeful Imagination_. 1st ed. Philadelphia: Fortress Press.
 
